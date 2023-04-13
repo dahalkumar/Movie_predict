@@ -1,0 +1,21 @@
+#for our build system we use  setuptools which will create wheel
+#build backend which is our meta data and setuptools build_meta is our common file
+
+[build-system]
+requires = ['setuptools>=67.4.0', "wheel"]
+build-backend = "setuptools.build_meta"
+
+#look into tests for testing
+
+[tool.pytest.ini_options]
+testpaths = [
+    "tests"
+    ]
+
+[tool.mypy]
+
+#always in src for our source
+
+mypy_path = "src"
+ignore_missing_imports = true
+

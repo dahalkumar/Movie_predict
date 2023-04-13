@@ -1,0 +1,34 @@
+sklearn
+dvc
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+python-box==7.0.1
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+mlflow==2.2.1
+evidently
+-e .
+
+## Developer  requirements
+pytest==7.1.3
+tox==4.4.6
+black==23.1.0
+flake8==6.0.0
+mypy==1.0.1
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,603 @@
+originalTitle,world_revenue,distributor,opening_theaters,budget,MPAA,release_days,startYear,runtimeMinutes,genres_y,averageRating,numVotes,ordering,category,primaryName
+Vice,76073488,Annapurna Pictures,2442.0,76073488.0,R,372,2018,132.0,"Biography,Comedy,Drama",7.2,150521,9,producer,Kevin J. Messick
+The Courier,26001227,Roadside Attractions,1433.0,26000000.0,PG-13,288,2020,112.0,"Drama,History,Thriller",7.2,63886,9,producer,Ben Browning
+A Quiet Place,340939361,Paramount Pictures,3508.0,17000000.0,PG-13,270,2018,90.0,"Drama,Horror,Sci-Fi",7.5,536678,9,producer,Brad Fuller
+Green Book,321752656,Universal Pictures,25.0,23000000.0,PG-13,411,2018,130.0,"Biography,Comedy,Drama",8.2,499302,9,producer,Charles B. Wessler
+Black Christmas,18529730,Universal Pictures,2625.0,5000000.0,PG-13,385,2021,54.0,"Horror,Mystery,Thriller",3.2,25,4,actor,Michael George
+"Lyle, Lyle, Crocodile",104060734,Sony Pictures Entertainment (SPE),4350.0,50000000.0,PG,115,2022,106.0,"Adventure,Animation,Comedy",6.1,6820,9,producer,Hutch Parker
+The Last Black Man in San Francisco,4637830,A24,7.0,4637830.0,R,208,2019,121.0,Drama,7.3,20047,9,writer,Prentice Sanders
+Five Feet Apart,92554209,Lionsgate,2803.0,7000000.0,PG-13,292,2019,116.0,"Drama,Romance",7.2,70037,9,composer,Brian Tyler
+Stan & Ollie,24420923,Sony Pictures Classics,5.0,24420923.0,PG,369,2018,98.0,"Biography,Comedy,Drama",7.2,38117,9,composer,Rolfe Kent
+F3: Fun and Frustration,9849193,Independent Indian,400.0,295216.0,R,248,2022,148.0,"Comedy,Family,Romance",4.7,2070,9,composer,Devi Sri Prasad
+Welcome to Marwen,13061491,Universal Pictures,1911.0,13061491.0,PG-13,376,2018,116.0,"Biography,Comedy,Drama",6.2,24570,9,producer,Steve Starkey
+Cry Macho,16510734,Warner Bros.,3967.0,14704912.0,PG-13,112,2021,104.0,Drama,5.7,28402,9,producer,Albert S. Ruddy
+Ready Player One,582890172,Warner Bros.,4234.0,175000000.0,PG-13,278,2018,140.0,"Action,Adventure,Sci-Fi",7.4,442085,9,producer,Dan Farah
+Nobody's Fool,33705333,Paramount Pictures,2468.0,19000000.0,R,63,2018,110.0,"Comedy,Drama,Romance",4.9,7768,9,cinematographer,Richard J. Vialet
+Firestarter,15039250,Universal Pictures,3412.0,12000000.0,R,262,2022,94.0,"Drama,Horror,Sci-Fi",4.6,16945,9,producer,Akiva Goldsman
+Queen & Slim,47861400,Universal Pictures,1690.0,18000000.0,R,401,2019,132.0,"Crime,Drama,Romance",7.1,32407,9,producer,Andrew Coles
+Emma.,26404660,Focus Features,5.0,10000000.0,PG,315,2020,124.0,"Comedy,Drama,Romance",6.7,56142,9,producer,Graham Broadbent
+Crisis,1099426,Quiver Distribution,216.0,65444.0,R,309,2021,118.0,"Drama,Thriller",6.2,11145,9,editor,Duff Smith
+Godzilla vs. Kong,470116094,Warner Bros.,3064.0,468043852.0,PG-13,282,2021,113.0,"Action,Sci-Fi,Thriller",6.3,212830,9,writer,Eric Pearson
+Simmba,51329025,Reliance Big Pictures,301.0,51329472.0,R,369,2018,158.0,"Action,Crime,Drama",5.5,23530,9,writer,Sajid
+The Unbearable Weight of Massive Talent,29116320,Lionsgate,3036.0,30000000.0,R,283,2022,107.0,"Action,Comedy,Crime",7.0,95178,9,producer,Kevin Turen
+Brightburn,33224654,Screen Gems,2607.0,6000000.0,R,222,2019,90.0,"Drama,Horror,Mystery",6.1,100188,9,producer,Kenneth Huang
+Friend Request,10975390,Entertainment Studios Motion Pictures,2573.0,9900000.0,R,105,2020,61.0,Drama,4.6,10,9,editor,Antonio Lowry Edward
+"Love, Simon",66316289,Twentieth Century Fox,2402.0,17000000.0,PG-13,291,2018,110.0,"Comedy,Drama,Romance",7.5,117086,9,producer,Marty Bowen
+Robin Hood,86489031,Lionsgate,2827.0,100000000.0,PG-13,406,2018,116.0,"Action,Adventure,Drama",5.3,75344,9,producer,Leonardo DiCaprio
+Bad Boys for Life,426505244,Sony Pictures Entertainment (SPE),3775.0,90000000.0,R,350,2020,124.0,"Action,Comedy,Crime",6.5,163259,9,writer,Chris Bremner
+Ron's Gone Wrong,60692022,20th Century Studios,3560.0,58234808.0,PG,77,2021,107.0,"Adventure,Animation,Comedy",7.0,35176,9,producer,Lara Breay
+Nope,171235592,Universal Pictures,3785.0,68000000.0,R,192,2022,130.0,"Horror,Mystery,Sci-Fi",6.9,195028,9,editor,Nicholas Monsour
+Nomadland,39458207,Searchlight Pictures,1175.0,5000000.0,R,316,2020,107.0,Drama,7.3,164385,9,producer,Peter Spears
+Beauty and the Beast,1263521126,Walt Disney Studios Motion Pictures,4210.0,160000000.0,PG,290,2018,60.0,"Family,Fantasy,Musical",7.2,18,9,actor,Marcos Cano
+Top Gun: Maverick,1488732821,Paramount Pictures,4735.0,170000000.0,PG-13,248,2022,130.0,"Action,Drama",8.3,509709,9,writer,Justin Marks
+After We Fell,21753705,Vertical Entertainment,246.0,14000000.0,R,113,2021,98.0,"Drama,Romance",4.7,15819,9,producer,Nicolas Chartier
+Sooryavanshi,6984082,Reliance Entertainment,491.0,19300000.0,R,63,2021,145.0,"Action,Crime,Thriller",6.1,77451,9,writer,Farhad Samji
+Gloria Bell,11145006,A24,5.0,11145006.0,R,299,2018,102.0,"Comedy,Drama,Music",6.3,12095,9,producer,Pablo Larraín
+Menteur,4697364,Entertainment One,89.0,696639.0,R,175,2019,111.0,Comedy,6.5,948,9,composer,FM Le Sieur
+The Black Phone,161440742,Universal Pictures,3150.0,16000000.0,R,220,2021,103.0,"Horror,Thriller",6.9,148770,9,composer,Mark Korven
+Queen Bees,2315871,Gravitas Ventures,500.0,5000000.0,PG-13,204,2021,100.0,"Comedy,Drama,Romance",6.2,2314,9,producer,Dominique Telson
+The Unholy,30832137,Screen Gems,1850.0,30792024.0,PG-13,280,2021,99.0,"Drama,Horror,Mystery",5.1,21904,9,composer,Joseph Bishara
+Bad Samaritan,4623836,Electric Entertainment,2007.0,4623836.0,R,242,2018,110.0,"Crime,Horror,Thriller",6.4,24246,9,composer,Joseph LoDuca
+Seberg,655178,Amazon Studios,3.0,8000000.0,R,315,2019,102.0,"Biography,Drama,Thriller",5.9,9303,9,producer,Fred Berger
+Missing Link,26565710,United Artists Releasing,3413.0,26565710.0,PG,264,2019,93.0,"Adventure,Animation,Comedy",6.7,26966,9,composer,Carter Burwell
+She Said,12788817,Universal Pictures,2022.0,3000000.0,R,73,2022,129.0,"Drama,History",7.2,18987,9,writer,Rebecca Corbett
+The Bob's Burgers Movie,34148750,20th Century Studios,3425.0,38000000.0,PG-13,248,2022,102.0,"Adventure,Animation,Comedy",7.0,18098,9,producer,Janelle Momary
+Avatar: The Way of Water,2117086137,20th Century Studios,4202.0,250000000.0,PG-13,45,2022,192.0,"Action,Adventure,Fantasy",7.8,267916,9,writer,Shane Salerno
+The Tiger Rising,1115158,Variance Films,872.0,933159.0,PG,374,2022,102.0,Family,4.6,719,9,composer,Tommy Emmanuel
+Mid90s,9303022,A24,4.0,1700000.0,R,77,2018,85.0,"Comedy,Drama",7.3,68048,9,producer,Lila Yacoub
+Three Thousand Years of Longing,19870306,United Artists Releasing,2436.0,19400000.0,R,157,2022,108.0,"Drama,Fantasy,Romance",6.7,36835,9,composer,Tom Holkenborg
+Julia,493080,Sony Pictures Classics,5.0,546478.0,PG-13,444,2021,95.0,"Biography,Documentary",7.6,1035,9,producer,Justin Wilkes
+Split,278454358,Universal Pictures,3038.0,9000000.0,PG-13,346,2022,52.0,Horror,7.2,5,4,actor,Daniel Valient
+The Marksman,23076711,Open Road Films (II),1975.0,23855847.0,PG-13,351,2021,108.0,"Action,Drama",5.6,37599,9,producer,Eric Gold
+The House with a Clock in Its Walls,131457147,Universal Pictures,3592.0,42000000.0,PG,467,2018,105.0,"Comedy,Family,Fantasy",6.0,52714,9,producer,James Vanderbilt
+The Tax Collector,1325781,RLJE Films,129.0,20000000.0,R,147,2020,95.0,"Action,Crime,Drama",4.8,14039,9,composer,Michael Yezerski
+Escape Room: Tournament of Champions,65774490,Sony Pictures Entertainment (SPE),2815.0,53493064.0,PG-13,175,2021,88.0,"Action,Adventure,Horror",5.7,47449,9,writer,Oren Uziel
+The Kid Who Would Be King,32140970,Twentieth Century Fox,3521.0,32140970.0,PG,341,2019,120.0,"Action,Adventure,Family",6.1,17428,9,composer,Damon Albarn
+Shortcut,600734,Gravitas Ventures,704.0,1278972.0,R,105,2020,80.0,"Adventure,Fantasy,Horror",4.1,1446,9,producer,Simona Ferri
+King Richard,39429285,Warner Bros.,3302.0,37994866.0,PG-13,437,2021,144.0,"Biography,Drama,Sport",7.5,116963,9,composer,Kris Bowers
+The Kid Detective,367890,Stage 6 Films,865.0,425378.0,R,84,2020,100.0,"Comedy,Drama,Mystery",7.0,19683,9,cinematographer,Mike McLaughlin
+Joker,1074251311,Warner Bros.,4374.0,55000000.0,R,455,2019,122.0,"Crime,Drama,Thriller",8.4,1301711,9,writer,Jerry Robinson
+American Underdog,26514814,Lionsgate,2813.0,26514814.0,PG,401,2021,112.0,"Biography,Drama,Sport",7.1,16178,9,writer,David Aaron Cohen
+Encanto,256786742,Walt Disney Studios Motion Pictures,3980.0,231192782.0,PG,432,2021,102.0,"Animation,Comedy,Family",7.2,226957,9,writer,Nancy Kruse
+Follow Me,4377394,Vertical Entertainment,45.0,35489.0,R,105,2020,91.0,"Adventure,Horror,Mystery",5.4,11390,9,composer,Crystal Grooms Mangano
+Dear Evan Hansen,19123994,Universal Pictures,3364.0,17509859.0,PG-13,105,2021,137.0,"Drama,Musical",6.1,15448,9,producer,Marc Platt
+The Last Vermeer,884710,TriStar Pictures,912.0,220000.0,R,49,2019,118.0,Drama,6.7,4187,9,writer,Jonathan Lopez
+Beirut,7509436,Bleecker Street Media,755.0,59234.0,R,265,2018,110.0,"Action,Crime,Drama",6.5,23062,9,producer,Shivani Rawat
+Traffik,9515914,Lionsgate,1046.0,4000000.0,R,256,2018,96.0,"Action,Thriller",5.9,20703,9,editor,Melissa Kent
+Holmes & Watson,40466970,Sony Pictures Entertainment (SPE),2776.0,42000000.0,PG-13,372,2018,90.0,"Comedy,Crime,Mystery",3.9,37380,9,producer,Clayton Townsend
+Coldplay: Music of the Spheres - Live Broadcast from Buenos Aires,2586693,Trafalgar Releasing,833.0,1564622.0,R,94,2022,150.0,Music,8.4,62,9,actor,Artie Esposito
+The Lost City,190844029,Paramount Pictures,4253.0,68000000.0,PG-13,311,2022,112.0,"Action,Adventure,Comedy",6.1,126080,9,writer,Seth Gordon
+Spiral,40618920,Lionsgate,2811.0,39519588.0,R,232,2021,92.0,Drama,7.2,25,7,production_designer,Louise Peraldi
+Jungle Cruise,220889446,Walt Disney Studios Motion Pictures,4310.0,210469803.0,PG-13,161,2021,127.0,"Action,Adventure,Comedy",6.6,194422,9,writer,John Norville
+Relic,2902552,IFC Films,69.0,2200000.0,R,182,2020,89.0,"Drama,Horror,Mystery",6.0,27553,9,producer,Anna McLeish
+Armageddon Time,5914705,Focus Features,6.0,6060979.0,R,94,2022,114.0,Drama,6.6,8461,9,composer,Christopher Spelman
+Our Friend,663725,Gravitas Ventures,543.0,10000000.0,R,344,2019,124.0,"Drama,Romance",7.3,12839,9,producer,Teddy Schwarzman
+Merci pour tout,1073969,eOne Entertainment,57.0,5000000.0,R,373,2019,99.0,Comedy,6.3,219,9,composer,Martin Léon
+American Skin,282332,Vertical Entertainment,51.0,100000.0,R,351,2019,90.0,"Drama,Thriller",6.9,3627,9,composer,Henry Jackman
+Black Adam,392952111,Warner Bros.,4402.0,260000000.0,PG-13,101,2022,125.0,"Action,Adventure,Fantasy",6.4,215249,9,writer,Bill Parker
+Call Jane,662240,Roadside Attractions,1068.0,594312.0,R,94,2022,121.0,"Drama,History",6.3,3254,9,producer,Robbie Brenner
+Dora and the Lost City of Gold,120597108,Paramount Pictures,3735.0,49000000.0,PG,145,2019,102.0,"Action,Adventure,Comedy",6.1,31726,9,writer,Chris Gifford
+Spider-Man: Into the Spider-Verse,375540831,Sony Pictures Entertainment (SPE),3813.0,384256930.0,PG,383,2018,117.0,"Action,Adventure,Animation",8.4,537581,9,producer,Avi Arad
+Pavarotti,8083942,CBS Films,19.0,8083942.0,PG-13,208,2019,114.0,"Biography,Documentary,Music",7.5,3588,9,producer,Brian Grazer
+Night School,103105878,Universal Pictures,3010.0,29000000.0,PG-13,460,2018,111.0,Comedy,5.6,41771,9,writer,Nicholas Stoller
+Red Rocket,2312554,A24,6.0,345677.0,R,387,2021,130.0,"Comedy,Drama",7.2,25795,9,producer,Alex Saks
+The Eyes of Tammy Faye,2676180,Searchlight Pictures,450.0,2700000.0,PG-13,106,2021,126.0,"Biography,Drama,Romance",6.6,34758,9,producer,Kelly Carmichael
+Bill & Ted Face the Music,6274027,United Artists Releasing,1007.0,25000000.0,PG-13,126,2020,91.0,"Adventure,Comedy,Music",5.9,48953,9,producer,Scott Kroopf
+In the Earth,1330723,Neon,547.0,1300000.0,R,260,2021,107.0,"Horror,Mystery,Thriller",5.2,9099,9,production_designer,Felicity Hickson
+The Old Man & the Gun,17860397,Fox Searchlight,5.0,15800000.0,PG-13,460,2018,93.0,"Biography,Comedy,Crime",6.7,47083,9,producer,James M. Johnston
+The Inspection,385627,A24,5.0,3000000.0,R,73,2022,95.0,Drama,7.1,871,9,cinematographer,Lachlan Milne
+Peter Rabbit 2: The Runaway,153901717,Sony Pictures Entertainment (SPE),3346.0,152506414.0,PG,210,2021,93.0,"Adventure,Comedy,Crime",6.2,12221,9,producer,Jodi Hildebrand
+Gosnell: The Trial of America's Biggest Serial Killer,3679893,GVN Releasing,673.0,3679893.0,PG-13,84,2018,93.0,"Crime,Drama",6.5,4629,9,composer,Deeji Mincey
+The Contractor,2122288,STX Entertainment,489.0,1814141.0,R,304,2022,103.0,"Action,Drama,Thriller",5.8,22464,9,composer,Alex Belcher
+Mamma Mia! Here We Go Again,395044706,Universal Pictures,3317.0,75000000.0,PG-13,165,2018,114.0,"Comedy,Musical,Romance",6.6,97861,9,writer,ABBA
+The Forever Purge,76994245,Universal Pictures,3051.0,76950525.0,R,183,2021,103.0,"Action,Crime,Horror",5.4,35439,9,producer,Andrew Form
+Peppermint,53918723,STX Entertainment,2980.0,25000000.0,R,116,2018,101.0,"Action,Thriller",6.5,66326,9,producer,Tom Rosenberg
+Sorry to Bother You,18170707,Annapurna Pictures,16.0,3200000.0,R,179,2018,112.0,"Comedy,Drama,Fantasy",6.9,81692,9,producer,George Rush
+The Happytime Murders,27506452,STX Entertainment,3256.0,40000000.0,R,130,2018,91.0,"Action,Comedy,Crime",5.4,28930,9,producer,Jeffrey M. Hayes
+Brahmastra Part One: Shiva,50164785,Walt Disney Studios Motion Pictures,810.0,4310000000.0,R,143,2022,167.0,"Action,Adventure,Fantasy",5.5,106707,9,producer,Namit Malhotra
+Wrath of Man,103966489,United Artists Releasing,2875.0,103913405.0,R,239,2021,119.0,"Action,Crime,Thriller",7.1,182017,9,writer,Marn Davies
+City of Lies,2824459,Saban Films,501.0,2811078.0,R,288,2018,112.0,"Biography,Crime,Drama",6.5,15946,9,producer,Stuart Manashil
+The Phantom of the Open,4024999,Sony Pictures Classics,6.0,4020763.0,PG-13,241,2021,106.0,"Comedy,Drama,Sport",7.0,5030,9,producer,Nichola Martin
+Violent Night,75671195,Universal Pictures,3682.0,20000000.0,R,59,2022,112.0,"Action,Comedy,Crime",6.7,57521,9,producer,David Leitch
+Boogie,4191023,Focus Features,1252.0,2500000.0,R,302,2021,90.0,"Drama,Sport",5.2,2229,9,composer,Ali Shaheed Muhammad
+The Darkest Minds,41142379,Twentieth Century Fox,3127.0,34000000.0,PG-13,151,2018,104.0,"Action,Adventure,Drama",5.7,33061,9,producer,Shawn Levy
+Rambo: Last Blood,91490353,Lionsgate,3618.0,50000000.0,R,105,2019,89.0,"Action,Crime,Thriller",6.1,100774,9,producer,Avi Lerner
+Knives Out,312897920,Lionsgate,3461.0,40000000.0,PG-13,401,2019,130.0,"Comedy,Crime,Drama",7.9,695217,9,editor,Bob Ducsay
+Last Christmas,123446172,Universal Pictures,3448.0,25000000.0,PG-13,420,2019,103.0,"Comedy,Drama,Fantasy",6.5,82732,9,producer,Jessie Henderson
+Love Story,5019348,Sony Pictures Entertainment (SPE),300.0,40000.0,R,99,2021,155.0,Romance,6.8,4193,9,cinematographer,Vijaya Kumar C.
+The Gentlemen,115171795,STX Entertainment,2165.0,22000000.0,R,343,2019,113.0,"Action,Comedy,Crime",7.8,346128,9,producer,Bill Block
+Whitney Houston: I Wanna Dance with Somebody,56424927,TriStar Pictures,3625.0,45000000.0,R,38,2022,144.0,"Biography,Drama,Music",6.9,7029,9,producer,Matt Jackson
+Second Act,72282227,STX Entertainment,2607.0,16000000.0,PG-13,376,2018,103.0,"Comedy,Drama,Romance",5.8,28320,9,composer,Michael Andrews
+Doctor Sleep,72381712,Warner Bros.,3855.0,45000000.0,R,420,2019,152.0,"Drama,Fantasy,Horror",7.3,196959,9,composer,The Newton Brothers
+Smile,216135048,Paramount Pictures,3645.0,17000000.0,R,122,2019,81.0,"Adventure,Drama,Music",5.5,43,9,composer,Johannes Klingebiel
+Toy Story 4,1073394593,Walt Disney Studios Motion Pictures,4575.0,200000000.0,G,196,2019,100.0,"Adventure,Animation,Comedy",7.7,254860,9,writer,Rashida Jones
+True to the Game 2,1181823,Faith Media Distribution,247.0,1230000.0,R,63,2020,94.0,"Crime,Thriller",4.3,452,9,composer,Chris Paultre
+Sanju,76693052,FIP,356.0,11590348.0,R,186,2018,155.0,"Biography,Comedy,Drama",7.6,55919,9,producer,Hetvi Karia
+Pacific Rim: Uprising,290930148,Universal Pictures,3708.0,150000000.0,PG-13,284,2018,111.0,"Action,Adventure,Fantasy",5.6,119379,9,writer,Travis Beacham
+12 Strong,67450815,Warner Bros.,3002.0,35000000.0,R,347,2018,130.0,"Action,Drama,History",6.5,83949,9,producer,Jerry Bruckheimer
+Dog Days,6842356,LD Entertainment,2442.0,10000000.0,PG,146,2018,124.0,Drama,6.5,7,9,composer,Sewage Worker
+Laal Singh Chaddha,12093536,Paramount Pictures,516.0,1310000000.0,PG-13,172,2022,159.0,"Comedy,Drama,Romance",5.5,174147,9,composer,Pritam Chakraborty
+Ant-Man and the Wasp,622674139,Walt Disney Studios Motion Pictures,4206.0,623144660.0,PG-13,179,2018,118.0,"Action,Adventure,Comedy",7.0,408011,9,writer,Gabriel Ferrari
+Father Stu,21592379,Sony Pictures Entertainment (SPE),2705.0,4000000.0,R,292,2022,124.0,"Biography,Drama",6.5,21702,9,cinematographer,Jacques Jouffret
+Overcomer,38026103,Affirm Films,1723.0,5000000.0,PG,133,2019,119.0,"Drama,Family,Sport",6.6,5135,9,cinematographer,Bob Scott
+Venom: Let There Be Carnage,506863592,Sony Pictures Entertainment (SPE),4225.0,501546922.0,PG-13,457,2021,97.0,"Action,Sci-Fi,Thriller",5.9,228405,9,producer,Amy Pascal
+Infamous,429148,Vertical Entertainment,58.0,536789.0,R,203,2020,100.0,"Crime,Drama,Romance",4.3,3206,9,producer,Scott Levenson
+Brian and Charles,860850,Focus Features,279.0,863056.0,PG,227,2022,90.0,Comedy,6.7,4708,9,editor,Jo Walker
+Shazam!,365971656,Warner Bros.,4217.0,100000000.0,PG-13,271,2019,132.0,"Action,Adventure,Comedy",7.0,344129,9,writer,C.C. Beck
+Honk for Jesus. Save Your Soul.,2561270,Focus Features,1880.0,2561270.0,R,150,2022,102.0,Comedy,5.4,3353,9,producer,Kara Durrett
+Aline,11149943,Roadside Attractions,70.0,54647.0,PG-13,430,2020,126.0,"Biography,Comedy,Drama",6.3,2759,9,cinematographer,Laurent Dailland
+The Rhythm Section,5989583,Paramount Pictures,3049.0,50000000.0,R,336,2020,109.0,"Action,Drama,Mystery",5.4,18897,9,composer,Steve Mazzaro
+Bumblebee,467989645,Paramount Pictures,3550.0,135000000.0,PG-13,376,2018,114.0,"Action,Adventure,Sci-Fi",6.7,169224,9,producer,Lorenzo di Bonaventura
+Color Out of Space,1023510,RLJE Films,81.0,8500000.0,R,343,2019,111.0,"Horror,Mystery,Sci-Fi",6.2,49895,9,producer,Josh C. Waller
+Belfast,48921656,Focus Features,580.0,25000000.0,PG-13,444,2021,98.0,"Biography,Drama",7.3,77102,9,composer,Van Morrison
+Fahrenheit 11/9,6674168,Briarcliff Entertainment,1719.0,6000000.0,R,102,2018,128.0,Documentary,7.1,19733,9,cinematographer,Jayme Roy
+Yesterday,154608668,Universal Pictures,2603.0,26000000.0,PG-13,187,2018,116.0,Drama,6.7,10,6,composer,B.K. Jr.
+Annihilation,43070915,Paramount Pictures,2012.0,40000000.0,R,312,2018,115.0,"Adventure,Drama,Horror",6.8,331597,9,producer,Allon Reich
+Together,214390,Universal Pictures,250.0,63547.0,R,127,2018,84.0,Drama,7.5,51,9,editor,Tomislav Pavlic
+Mary Poppins Returns,349537494,Walt Disney Studios Motion Pictures,4090.0,130000000.0,PG,378,2018,130.0,"Adventure,Comedy,Family",6.7,89874,9,producer,Marc Platt
+Just Mercy,50901502,Warner Bros.,4.0,25000000.0,PG-13,373,2019,137.0,"Biography,Crime,Drama",7.6,69217,9,producer,Gil Netter
+Brian Banks,4376819,Bleecker Street Media,1240.0,4376819.0,PG-13,145,2018,99.0,"Biography,Drama,Sport",7.2,7631,9,producer,Shivani Rawat
+Midnight Sun,27365467,Global Road Entertainment,2173.0,2800000.0,PG-13,284,2018,91.0,"Drama,Romance",6.6,32505,9,producer,John Rickard
+The Woman King,92428130,TriStar Pictures,3765.0,50000000.0,PG-13,136,2022,135.0,"Action,Drama,History",6.7,46448,9,producer,Julius Tennon
+The Rental,4311042,IFC Films,250.0,3500000.0,R,161,2020,88.0,"Drama,Horror,Mystery",5.7,33522,9,producer,Teddy Schwarzman
+Promising Young Woman,18854166,Focus Features,1310.0,5000000.0,R,372,2020,113.0,"Crime,Drama,Mystery",7.5,177613,9,producer,Josey McNamara
+The King's Man,125897478,20th Century Studios,3180.0,100000000.0,R,404,2021,131.0,"Action,Adventure,Thriller",6.3,150514,9,producer,Adam Bohling
+The Strangers: Prey at Night,31039126,Aviron Pictures,2464.0,5000000.0,R,298,2018,85.0,Horror,5.2,32048,9,producer,James Harris
+Cyrano,6396730,United Artists Releasing,797.0,30000000.0,PG-13,339,2021,123.0,"Drama,Musical,Romance",6.4,12220,9,producer,Eric Fellner
+Unfriended: Dark Web,16024987,BH Tilt,1546.0,1000000.0,R,165,2018,92.0,"Horror,Mystery,Thriller",6.0,34264,9,editor,Andrew Wesman
+The Personal History of David Copperfield,14399270,Searchlight Pictures,1360.0,15600000.0,PG,126,2019,119.0,"Comedy,Drama",6.4,20717,9,composer,Christopher Willis
+The Matrix Resurrections,157286805,Warner Bros.,3552.0,159197755.0,R,404,2021,148.0,"Action,Sci-Fi",5.7,253538,9,producer,Grant Hill
+Spider-Man: Far from Home,1131927996,Sony Pictures Entertainment (SPE),4634.0,160000000.0,PG-13,183,2019,129.0,"Action,Adventure,Sci-Fi",7.4,499608,9,writer,Steve Ditko
+Spoiler Alert,1384003,Focus Features,6.0,1384003.0,PG-13,59,2022,112.0,"Comedy,Drama",7.1,2167,9,producer,Alison Mo Massey
+Star Wars: Episode IX - The Rise of Skywalker,1074144248,Walt Disney Studios Motion Pictures,4406.0,275000000.0,PG-13,378,2019,141.0,"Action,Adventure,Fantasy",6.5,456465,9,writer,George Lucas
+Every Day,10421847,Orion Pictures,1667.0,4900000.0,PG-13,312,2018,97.0,"Drama,Fantasy,Romance",6.4,22231,9,producer,Peter Cron
+Men,11152071,A24,2212.0,11200000.0,R,255,2022,100.0,"Drama,Fantasy,Horror",6.1,44416,9,composer,Ben Salisbury
+Fatman,1651413,Saban Films,259.0,63736.0,R,56,2020,100.0,"Action,Adventure,Comedy",5.9,27101,9,producer,Michelle Lang
+Serenity,14454622,Aviron Pictures,2561.0,40445129.0,R,341,2019,106.0,"Drama,Mystery,Thriller",5.4,42276,9,cinematographer,Jess Hall
+Jojo Rabbit,90335025,Fox Searchlight,5.0,14000000.0,PG-13,441,2019,108.0,"Comedy,Drama,War",7.9,396444,9,cinematographer,Mihai Malaimare Jr.
+Bo Gia,17480489,3388 Films,20.0,80000.0,R,218,2021,128.0,"Comedy,Drama,Family",6.7,896,9,composer,Ngô Minh Hoàng
+Saaho,5708522,Yash Raj Films,381.0,5708522.0,R,125,2019,170.0,"Action,Thriller",5.0,20495,9,writer,Anil Kumar Upadyaula
+The Lost Leonardo,600188,Sony Pictures Classics,3.0,64567.0,PG-13,147,2021,96.0,"Documentary,Mystery",7.5,2045,9,writer,Christian Kirk Muff
+The Empty Man,4796993,20th Century Studios,2027.0,16000000.0,R,77,2020,137.0,"Drama,Horror,Mystery",6.2,31440,9,composer,Brian Williams
+Dutch,404371,Faith Media Distribution,202.0,150000.0,R,295,2021,109.0,Action,3.8,485,9,cinematographer,Brian Taylor
+Sonic the Hedgehog 2,402656846,Paramount Pictures,4234.0,100000000.0,PG,297,2022,122.0,"Action,Adventure,Comedy",6.5,69407,9,producer,Toby Ascher
+Becky,1045873,Quiver Distribution,45.0,145873.0,R,210,2020,93.0,"Action,Crime,Drama",5.9,17679,9,writer,Nick Morris
+Gully Boy,28299498,Viva Pictures,258.0,28299498.0,R,321,2019,154.0,"Drama,Music,Romance",7.9,40586,9,producer,Hetvi Karia
+Created Equal: Clarence Thomas in His Own Words,282149,Manifold Productions Inc.,23.0,56278.0,PG-13,336,2020,116.0,"Biography,Documentary",8.1,1016,8,editor,Faith Jones
+A Simple Favor,97644617,Lionsgate,3102.0,20000000.0,R,112,2018,117.0,"Comedy,Crime,Mystery",6.8,151803,9,composer,Theodore Shapiro
+Dark Waters,23108017,Focus Features,4.0,23108017.0,PG-13,406,2019,126.0,"Biography,Drama,History",7.6,90766,9,producer,Pamela Koffler
+Stevie Nicks 24 Karat Gold the Concert,613612,Trafalgar Releasing,413.0,93846.0,R,72,2020,135.0,Music,8.9,104,9,self,Ricky Peterson
+Overlord,41657844,Paramount Pictures,2859.0,38000000.0,R,56,2018,110.0,"Action,Horror,Sci-Fi",6.6,100906,9,producer,Lindsey Weber
+Emily the Criminal,2156296,Roadside Attractions,470.0,2157709.0,R,171,2022,97.0,"Crime,Drama,Thriller",6.7,33054,9,cinematographer,Jeff Bierman
+Forever My Girl,16376066,Roadside Attractions,1114.0,3500000.0,PG,347,2018,108.0,"Comedy,Drama,Music",6.6,18377,9,producer,Pete Shilaimon
+Scream,140041405,Paramount Pictures,3664.0,15000000.0,R,381,2022,114.0,"Horror,Mystery,Thriller",6.3,118271,9,writer,Kevin Williamson
+The Hate U Give,34934009,Twentieth Century Fox,36.0,23000000.0,PG-13,453,2018,133.0,"Crime,Drama",7.5,37239,9,producer,Wyck Godfrey
+Spirit Untamed,42717215,Universal Pictures,3211.0,42235744.0,PG,217,2021,88.0,"Adventure,Animation,Comedy",5.5,3918,9,writer,Katherine Nolfi
+The Art of Racing in the Rain,33766787,Twentieth Century Fox,2765.0,18000000.0,PG,145,2019,109.0,"Comedy,Drama,Romance",7.5,32980,9,producer,Tania Landau
+Till,9922038,United Artists Releasing,16.0,10324685.0,PG-13,108,2022,130.0,"Biography,Drama,History",7.2,6818,9,producer,Whoopi Goldberg
+Operation Finale,17612099,Metro-Goldwyn-Mayer (MGM),1818.0,24000000.0,PG-13,128,2018,122.0,"Biography,Drama,History",6.6,43797,9,producer,Jason Spire
+Rocketman,195320400,Paramount Pictures,3610.0,40000000.0,R,215,2019,94.0,"Adventure,Comedy,Documentary",6.2,213,6,director,Michael Linn
+Acharya,8048175,Prime Media Pictures,396.0,8048175.0,R,276,2022,152.0,"Action,Drama",3.8,4388,9,cinematographer,S. Tirru
+Blind Eyes Opened,234505,Fathom Events,0.0,36758.0,R,344,2020,115.0,Documentary,7.3,46,8,cinematographer,Jeffrey Carter
+Nobody,57510518,Universal Pictures,2460.0,16000000.0,R,287,2021,92.0,"Action,Crime,Drama",7.4,259029,9,producer,Kelly McCormick
+See How They Run,21966634,Walt Disney Studios Motion Pictures,2404.0,260000000.0,PG-13,136,2022,98.0,"Comedy,Crime,Mystery",6.5,46954,9,composer,Daniel Pemberton
+Pig,3889432,Neon,552.0,30000000.0,R,169,2019,80.0,Drama,7.4,30,3,cinematographer,Shalva Sokurashvili
+First Man,105697415,Universal Pictures,3640.0,59000000.0,PG-13,446,2018,141.0,"Biography,Drama,History",7.3,191027,9,producer,Wyck Godfrey
+Yellow Rose,367849,Stage 6 Films,900.0,63738.0,PG-13,91,2019,94.0,"Drama,Music",6.6,1211,9,producer,Rey Cuerdo
+Infinite Storm,1707067,Bleecker Street Media,1525.0,1600542.0,R,311,2022,97.0,"Drama,Thriller",5.2,5900,9,producer,Jenny Halper
+The Green Knight,18888418,A24,2790.0,20022491.0,R,155,2021,130.0,"Adventure,Drama,Fantasy",6.6,103286,9,producer,James M. Johnston
+Johnny English Strikes Again,158970776,Universal Pictures,544.0,25000000.0,PG,70,2018,89.0,"Action,Adventure,Comedy",6.2,76020,9,producer,Eric Fellner
+The Water Man,383234,RLJE Films,311.0,200000.0,PG,239,2020,91.0,"Adventure,Drama,Family",5.5,4125,9,composer,Peter Baert
+The Meg,530243742,Warner Bros.,4118.0,130000000.0,PG-13,147,2018,113.0,"Action,Horror,Sci-Fi",5.6,174265,9,writer,Steve Alten
+Vanguard,50866901,Gravitas Ventures,1375.0,5866901.0,PG-13,49,2020,107.0,"Action,Adventure,Comedy",4.7,5920,9,producer,Baolin Zhou
+John Wick: Chapter 3 - Parabellum,327777335,Lionsgate,3850.0,75000000.0,R,229,2019,130.0,"Action,Crime,Thriller",7.4,350579,9,writer,Marc Abrams
+The Biggest Little Farm,5248412,Neon,5.0,5248412.0,PG,236,2018,91.0,Documentary,8.0,8010,9,cinematographer,Benji Lanpher
+Replicas,9330075,Entertainment Studios Motion Pictures,2329.0,9330075.0,PG-13,355,2018,107.0,"Drama,Sci-Fi,Thriller",5.4,39447,9,producer,Mark Gao
+Fighting with My Family,41503392,Metro-Goldwyn-Mayer (MGM),4.0,11000000.0,PG-13,321,2019,108.0,"Biography,Comedy,Drama",7.1,82826,9,composer,Vik Sharma
+Long Weekend,1018532,Stage 6 Films,814.0,500000.0,R,301,2021,91.0,"Comedy,Romance",6.1,1617,9,producer,Audrey Rosenberg
+Dream Horse,6572790,Bleecker Street Media,1254.0,6600000.0,PG,225,2020,113.0,"Biography,Comedy,Drama",6.9,5805,9,composer,Benjamin Woodgates
+Fantasy Island,49447308,Sony Pictures Entertainment (SPE),2784.0,7000000.0,PG-13,322,2020,109.0,"Fantasy,Horror,Mystery",4.9,53883,9,producer,Jason Blum
+Hellboy,55064690,Lionsgate,3303.0,50000000.0,R,264,2019,120.0,"Action,Adventure,Fantasy",5.2,92149,9,producer,Carl Hampe
+Zola,4998097,A24,1468.0,5000000.0,R,185,2020,86.0,"Comedy,Crime,Drama",6.5,15083,9,writer,Andrew Neel
+Titane,4982335,Neon,562.0,6100000.0,R,92,2021,108.0,"Drama,Horror,Sci-Fi",6.6,47619,9,producer,Amaury Ovise
+Happy Death Day 2U,64600152,Universal Pictures,3207.0,9000000.0,PG-13,324,2019,100.0,"Comedy,Horror,Mystery",6.2,76907,9,cinematographer,Toby Oliver
+UglyDolls,32450241,STX Entertainment,3652.0,32450241.0,PG,243,2019,87.0,"Adventure,Animation,Comedy",5.1,7089,9,writer,Sun-Min Kim
+Stillwater,19754272,Focus Features,2531.0,17243702.0,R,155,2018,92.0,"Mystery,Thriller",5.1,661,9,composer,Bill Appleberry
+Shang-Chi and the Legend of the Ten Rings,432243292,Walt Disney Studios Motion Pictures,4300.0,432224634.0,PG-13,126,2021,132.0,"Action,Adventure,Fantasy",7.4,386859,9,writer,Jim Starlin
+Deadpool 2,734546611,Twentieth Century Fox,4349.0,110000000.0,R,228,2018,119.0,"Action,Adventure,Comedy",7.7,589362,9,writer,Fabian Nicieza
+Marry Me,50458060,Universal Pictures,3642.0,23000000.0,PG-13,353,2022,112.0,"Comedy,Music,Romance",6.1,33524,9,writer,Bobby Crosby
+Death Wish,49562710,Metro-Goldwyn-Mayer (MGM),2847.0,30000000.0,R,305,2018,107.0,"Action,Crime,Drama",6.3,73214,9,producer,Roger Birnbaum
+Sicario: Day of the Soldado,75837743,Sony Pictures Entertainment (SPE),3055.0,35000000.0,R,186,2018,122.0,"Action,Crime,Drama",7.0,151511,9,producer,Trent Luckinbill
+Won't You Be My Neighbor?,22844741,Focus Features,29.0,25000000.0,PG-13,207,2018,95.0,"Biography,Documentary",8.3,26092,9,cinematographer,Graham Willoughby
+100% Wolf,9642701,Viva Pictures,0.0,15000000.0,PG,449,2020,96.0,"Adventure,Animation,Comedy",5.6,1980,9,producer,Alexia Gates-Foale
+After We Collided,47990414,Open Road Films (II),460.0,14000000.0,R,77,2020,105.0,"Drama,Romance",5.0,33179,9,producer,Nicolas Chartier
+The Lighthouse,18129854,A24,8.0,18129854.0,R,441,2019,109.0,"Comedy,Drama,Fantasy",7.4,222205,9,producer,Rodrigo Teixeira
+Cuando sea joven,2028077,Pantelion Films,315.0,5000000.0,PG,129,2022,120.0,Comedy,7.4,227,9,producer,Ben Odell
+HIT: The 2nd Case,742389,Tolly Movies,280.0,742389.0,R,59,2022,150.0,"Action,Crime,Drama",7.2,4232,9,editor,Garry Bh
+Voyagers,4298184,Lionsgate,1972.0,29000000.0,PG-13,267,2021,108.0,"Adventure,Sci-Fi,Thriller",5.4,22621,9,cinematographer,Enrique Chediak
+Prey for the Devil,44589668,Lionsgate,2980.0,43995977.0,PG-13,94,2022,93.0,"Horror,Thriller",5.2,9791,9,producer,Paul Brooks
+Fantastic Fungi,1877675,Area 23a,1.0,547246.0,R,469,2019,81.0,Documentary,7.4,9693,9,composer,Adam Peters
+BlacKkKlansman,93400823,Focus Features,1512.0,15000000.0,R,509,2018,135.0,"Biography,Comedy,Crime",7.5,268222,9,writer,Ron Stallworth
+Sarileru Neekevvaru,37389889,Great India Films,300.0,9054525.0,R,357,2020,169.0,"Action,Comedy,Drama",5.8,8177,9,writer,Rafi Warsi
+House of Gucci,153266022,United Artists Releasing,3477.0,147474138.0,R,432,2021,158.0,"Biography,Crime,Drama",6.6,139573,9,producer,Giannina Facio
+The Goldfinch,9932621,Warner Bros.,2542.0,45000000.0,R,110,2019,149.0,Drama,6.4,24330,9,producer,Brad Simpson
+Doctor Strange in the Multiverse of Madness,955775804,Walt Disney Studios Motion Pictures,4534.0,190000000.0,PG-13,269,2022,126.0,"Action,Adventure,Fantasy",6.9,422116,9,producer,Kevin Feige
+Chaos Walking,26508132,Lionsgate,1980.0,27072169.0,PG-13,302,2021,109.0,"Action,Adventure,Fantasy",5.7,50144,9,producer,Allison Shearmur
+Fantastic Beasts: The Secrets of Dumbledore,406950844,Warner Bros.,4208.0,200000000.0,PG-13,290,2022,142.0,"Adventure,Family,Fantasy",6.2,144769,9,producer,Tim Lewis
+Echo in the Canyon,3355324,Greenwich Entertainment,2.0,3355324.0,PG-13,222,2018,82.0,"Documentary,Music",7.0,3646,9,cinematographer,Kyle Kibbe
+Tulsa,413378,Pryor Entertainment,191.0,92746.0,PG-13,140,2020,120.0,"Comedy,Drama",6.0,774,9,composer,Will Musser
+Ghostbusters: Afterlife,204334455,Sony Pictures Entertainment (SPE),4315.0,203614138.0,PG-13,437,2021,124.0,"Adventure,Comedy,Fantasy",7.1,185760,9,writer,Harold Ramis
+Vikram Vedha,8234166,Reliance Entertainment,558.0,591618.0,R,122,2022,160.0,"Action,Crime,Drama",7.1,17256,9,producer,Bhushan Kumar
+God's Country,493679,IFC Films,785.0,493679.0,R,136,2022,102.0,Thriller,5.6,2440,9,producer,Halee Bernard
+Last Night in Soho,22957625,Focus Features,3016.0,22876948.0,R,70,2021,116.0,"Drama,Horror,Mystery",7.1,142474,9,producer,Nira Park
+The Hunt,10550350,Universal Pictures,3028.0,14000000.0,R,294,2020,90.0,"Action,Horror,Thriller",6.5,116863,9,composer,Nathan Barr
+Dog,84774243,United Artists Releasing,3677.0,15000000.0,PG-13,346,2022,83.0,"Drama,Thriller",8.2,7,9,actor,Daniel Cisio
+Lifemark,5492391,Fathom Events,1531.0,5324402.0,PG-13,143,2022,120.0,Drama,5.9,764,9,composer,Kyle McCuiston
+Deep in the Heart: A Texas Wildlife Story,480240,Fin and Fur Films,69.0,480240.0,PG,241,2022,101.0,Documentary,7.6,177,9,cinematographer,Skip Hobbie
+Ready or Not,57615777,Fox Searchlight,2855.0,6000000.0,R,133,2020,95.0,Documentary,7.1,13,4,editor,David Bartner
+Love and Monsters,1122066,Paramount Pictures,387.0,30000000.0,PG-13,84,2020,109.0,"Action,Adventure,Comedy",6.9,130448,9,producer,Shawn Levy
+Mary Queen of Scots,46712809,Focus Features,4.0,46712809.0,R,390,2018,124.0,"Biography,Drama,History",6.3,51803,9,producer,Eric Fellner
+Truth or Dare,95330493,Universal Pictures,3029.0,3500000.0,PG-13,263,2018,92.0,"Comedy,Drama,Romance",4.0,6,9,producer,Jera Wang
+The Last Full Measure,3364426,Roadside Attractions,614.0,20000000.0,R,343,2019,116.0,"Drama,War",6.8,12357,9,producer,Nicholas Cafritz
+Jathi Ratnalu,731273,Flyhigh Cinemas,130.0,30000.0,R,295,2021,145.0,Comedy,7.3,7567,9,editor,Abhinav Danda
+God's Not Dead: A Light in Darkness,7414178,Pure Flix Entertainment,1693.0,20000.0,PG,277,2018,105.0,Drama,4.4,4149,9,producer,David A.R. White
+The Jesus Music,1016725,Lionsgate,249.0,1016725.0,PG-13,92,2021,109.0,Documentary,7.3,487,9,producer,Josh Walsh
+Mission: Impossible - Fallout,791115104,Paramount Pictures,4386.0,178000000.0,PG-13,158,2018,147.0,"Action,Adventure,Thriller",7.7,337197,9,composer,Lorne Balfe
+The Many Saints of Newark,13037403,Warner Bros.,3181.0,12732039.0,R,98,2021,120.0,"Crime,Drama",6.3,55836,9,cinematographer,Kramer Morgenthau
+Spell,500104,Paramount Pictures,369.0,500104.0,R,70,2018,87.0,"Comedy,Drama,Thriller",6.0,646,9,composer,Patrick Stump
+Baaghi 3,16726510,FIP,265.0,17983889.0,R,301,2020,143.0,"Action,Adventure,Thriller",2.1,12872,9,writer,Tasha Bhambra
+Tully,15636462,Focus Features,1353.0,12500000.0,R,242,2018,95.0,"Comedy,Drama,Mystery",6.9,60267,9,producer,Aaron L. Gilbert
+Clerks III,4717597,Fathom Events,0.0,4737955.0,R,136,2022,100.0,"Comedy,Drama",6.3,11324,9,cinematographer,Learan Kahanov
+Mortal Engines,83672673,Universal Pictures,3103.0,125000000.0,PG-13,383,2018,128.0,"Action,Adventure,Fantasy",6.1,128705,9,writer,Philip Reeve
+Bharat,33185983,Viva Pictures,311.0,35261263.0,Not Rated,210,2019,150.0,"Action,Comedy,Drama",4.7,31417,9,producer,Hetvi Karia
+47 Meters Down: Uncaged,47582563,Entertainment Studios Motion Pictures,2853.0,12000000.0,PG-13,140,2019,90.0,"Adventure,Drama,Horror",5.0,27250,9,producer,Mark Lane
+The Turning,19428166,Universal Pictures,2571.0,14000000.0,PG-13,343,2020,94.0,"Drama,Horror,Mystery",3.9,14935,9,producer,Scott Bernstein
+The Croods: A New Age,215905815,Universal Pictures,2211.0,214790246.0,PG,402,2020,95.0,"Adventure,Animation,Comedy",6.9,45413,9,writer,Bob Logan
+Roadrunner: A Film About Anthony Bourdain,5489792,Focus Features,927.0,55000000.0,R,175,2021,119.0,Documentary,7.7,7912,9,cinematographer,Adam Beckman
+True to the Game 3,1038255,Faith Media Distribution,440.0,1038255.0,R,35,2021,98.0,"Crime,Romance,Thriller",5.0,301,9,producer,Yolanda Halley
+Unsane,14293601,Bleecker Street Media,2023.0,1500000.0,R,284,2018,98.0,"Drama,Horror,Mystery",6.4,47413,9,composer,David Wilder Savage
+Tolkien,9090040,Fox Searchlight,1495.0,9090040.0,PG-13,236,2019,112.0,"Biography,Drama,Romance",6.8,42241,9,producer,David Ready
+Antlers,18867659,Searchlight Pictures,2800.0,35680402.0,R,70,2021,99.0,"Drama,Horror,Mystery",5.9,39712,9,producer,Guillermo del Toro
+I Feel Pretty,94539426,STX Entertainment,3440.0,32000000.0,PG-13,256,2018,110.0,"Comedy,Romance",5.6,54796,9,producer,Alissa Phillips
+Judas and the Black Messiah,7478009,Warner Bros.,1888.0,26000000.0,R,329,2021,126.0,"Biography,Drama,History",7.4,82147,9,producer,Ryan Coogler
+Isle of Dogs,64241499,Fox Searchlight,27.0,64200000.0,PG-13,284,2018,101.0,"Adventure,Animation,Comedy",7.8,172389,9,producer,Jeremy Dawson
+Angel Has Fallen,146661977,Lionsgate,3286.0,40000000.0,R,131,2019,121.0,"Action,Thriller",6.4,100185,9,writer,Katrin Benedikt
+The Angry Birds Movie 2,147792047,Sony Pictures Entertainment (SPE),3869.0,65000000.0,PG,143,2019,97.0,"Action,Adventure,Animation",6.4,30861,9,writer,Jonathon E. Stewart
+Aftersun,3178120,A24,4.0,4286612.0,R,101,2022,102.0,Drama,7.8,28035,9,producer,Adele Romanski
+Jackass Forever,80484161,Paramount Pictures,3604.0,10000000.0,R,360,2022,96.0,"Action,Comedy,Documentary",6.9,45120,9,writer,Sean Cliver
+The Forgotten Carols,502252,Purdie Distribution,59.0,502252.0,R,407,2020,130.0,Musical,8.2,70,9,producer,Tyler Weston
+Black Panther,1346913161,Walt Disney Studios Motion Pictures,4020.0,92836.0,PG-13,319,2018,134.0,"Action,Adventure,Sci-Fi",7.3,780405,9,producer,Kevin Feige
+A Hidden Life,4622354,Fox Searchlight,5.0,8300000.0,PG-13,385,2019,174.0,"Biography,Drama,Romance",7.4,25195,9,producer,Josh Jeter
+Here Today,2871327,Stage 6 Films,1200.0,2800000.0,PG-13,239,2021,93.0,"Comedy,Drama",6.7,4811,9,composer,Charlie Rosen
+Terminator: Dark Fate,261119292,Paramount Pictures,4086.0,185000000.0,R,63,2019,128.0,"Action,Adventure,Sci-Fi",6.2,180772,9,writer,James Cameron
+Bullet Train,239268602,Sony Pictures Entertainment (SPE),4357.0,88000000.0,R,178,2022,127.0,"Action,Comedy,Thriller",7.3,277179,9,producer,Kelly McCormick
+12 Mighty Orphans,3713294,Sony Pictures Entertainment (SPE),132.0,3700000.0,PG-13,204,2021,118.0,"History,Sport",6.9,5870,9,producer,Brinton Bryan
+Super Troopers 2,31626386,Twentieth Century Fox,2038.0,13500000.0,R,256,2018,100.0,"Comedy,Crime,Mystery",6.0,27054,9,editor,Spencer Houck
+After Ever Happy,19155062,Fathom Events,239.0,12463628.0,R,145,2022,95.0,"Drama,Romance",4.5,6343,9,producer,Nicolas Chartier
+Captain Marvel,1128274794,Walt Disney Studios Motion Pictures,4310.0,160000000.0,PG-13,299,2019,123.0,"Action,Adventure,Sci-Fi",6.8,565846,9,writer,Meg LeFauve
+Fatale,7031289,Lionsgate,1107.0,7000000.0,R,379,2020,102.0,Thriller,5.4,11491,9,cinematographer,Dante Spinotti
+Bones and All,14534907,United Artists Releasing,2727.0,14122340.0,R,68,2022,131.0,"Drama,Horror,Romance",6.9,31053,9,producer,Lorenzo Mieli
+Redeeming Love,9464198,Universal Pictures,1903.0,140000000.0,PG-13,374,2022,134.0,"Drama,Romance",6.7,8250,9,producer,Vlokkie Gordon
+The New Mutants,49169594,20th Century Studios,2412.0,44608247.0,PG-13,133,2020,94.0,"Action,Horror,Mystery",5.3,81768,9,producer,Lauren Shuler Donner
+Booksmart,24959607,United Artists Releasing,2505.0,6000000.0,R,222,2019,102.0,Comedy,7.1,121776,9,writer,Katie Silberman
+Possessor,911180,Neon,320.0,750000.0,R,91,2020,103.0,"Horror,Mystery,Sci-Fi",6.5,38140,9,producer,Andrew Starke
+Gotti,6412349,Vertical Entertainment,503.0,6412349.0,R,200,2018,112.0,"Biography,Crime,Drama",4.7,15926,9,producer,Marc Fiore
+Puss in Boots: The Last Wish,335725795,Universal Pictures,4099.0,130000000.0,PG,40,2022,102.0,"Adventure,Animation,Comedy",7.9,54076,9,writer,Tom Wheeler
+Hitman's Wife's Bodyguard,70060492,Lionsgate,3331.0,67387455.0,R,199,2021,100.0,"Action,Comedy,Crime",6.1,95459,9,producer,Yariv Lerner
+1917,384479940,Universal Pictures,11.0,95000000.0,R,373,2019,119.0,"Action,Drama,War",8.2,598936,9,producer,Brian Oliver
+"Paul, Apostle of Christ",25915966,Affirm Films,1473.0,5000000.0,PG-13,284,2018,108.0,"Adventure,Biography,Drama",6.6,8861,9,cinematographer,Gerardo Madrazo
+Crawl,91542097,Paramount Pictures,3170.0,13500000.0,R,173,2019,87.0,"Action,Adventure,Horror",6.1,86268,9,producer,Sam Raimi
+Moonfall,67295363,Lionsgate,3446.0,146000000.0,PG-13,360,2022,130.0,"Action,Adventure,Sci-Fi",5.1,82884,9,cinematographer,Robby Baumgartner
+Jay and Silent Bob Reboot,4691248,Saban Films,1.0,4691248.0,R,444,2019,105.0,"Action,Adventure,Comedy",5.6,26538,9,cinematographer,Yaron Levy
+Indivisible,3589633,Pure Flix Entertainment,830.0,3589633.0,PG-13,432,2018,119.0,"Drama,War",5.8,1286,9,producer,Justin Tolley
+Dolittle,251410631,Universal Pictures,4155.0,175000000.0,PG,350,2020,101.0,"Adventure,Comedy,Family",5.6,65960,9,writer,Hugh Lofting
+Saint Michael Meet the Angel,643828,Fathom Events,0.0,2000000.0,R,123,2022,90.0,Documentary,7.4,19,8,cinematographer,Dawid Halota
+Judy,45701880,Roadside Attractions,461.0,45987812.0,PG-13,462,2019,118.0,"Biography,Drama,Romance",6.8,51702,9,composer,Gabriel Yared
+Crazy Rich Asians,238532921,Warner Bros.,3384.0,30000000.0,PG-13,504,2018,120.0,"Comedy,Drama,Romance",6.9,175753,9,producer,Nina Jacobson
+Minari,15312445,A24,786.0,2000000.0,PG-13,323,2020,115.0,Drama,7.4,83587,9,composer,Emile Mosseri
+The Intruder,36599361,Screen Gems,2222.0,8000000.0,PG-13,243,2019,102.0,"Horror,Thriller",5.6,18473,9,producer,Brad Kaplan
+Alpha,99630675,Studio 8,2719.0,51000000.0,PG-13,140,2019,90.0,"Crime,Drama,Fantasy",5.9,68,9,producer,Esha Yousuf
+Unsilenced,1198967,Zhen Pictures,34.0,1199000.0,R,374,2021,108.0,Drama,6.8,475,9,cinematographer,Stirling Bancroft
+Hustlers,157563598,STX Entertainment,3250.0,20000000.0,R,476,2019,110.0,"Comedy,Crime,Drama",6.3,101996,9,producer,Elaine Goldsmith-Thomas
+The 355,27827450,Universal Pictures,3145.0,65000000.0,PG-13,388,2022,122.0,"Action,Thriller",5.5,31026,9,cinematographer,Tim Maurice-Jones
+"If I Can't Have Love, I Want Power",629926,IMAX,122.0,54647.0,R,129,2021,53.0,"Drama,Fantasy,Horror",6.4,1768,9,production_designer,David Baxa
+Gangubai Kathiawadi,3271210,Paramount Pictures International,0.0,1800000000.0,R,332,2022,152.0,"Biography,Crime,Drama",7.8,56629,9,writer,Mitakshara Kumar
+How to Train Your Dragon: The Hidden World,521799505,Universal Pictures,4259.0,129000000.0,PG,313,2019,104.0,"Action,Adventure,Animation",7.4,132505,9,composer,John Powell
+Unplanned,21515607,Pure Flix Entertainment,1059.0,6000000.0,R,278,2019,109.0,"Biography,Drama",5.5,14147,9,producer,Joe Knopp
+The Rescue,1060556,Greenwich Entertainment,9.0,1200000.0,PG,91,2020,139.0,"Action,Comedy,Drama",6.0,923,9,producer,Candy Leung
+Little Women,218843645,Sony Pictures Entertainment (SPE),3308.0,40000000.0,PG,373,2018,112.0,"Drama,Family",5.3,1337,9,producer,Stephen Shimek
+Tag,78130625,Warner Bros.,3382.0,28000000.0,R,200,2018,100.0,"Action,Comedy",6.5,136435,9,producer,Todd Garner
+Vivo,783714,Fathom Events,300.0,1326371.0,R,280,2021,95.0,"Adventure,Animation,Comedy",6.7,19568,9,producer,Rich Moore
+The Farewell,23076657,A24,4.0,23076657.0,PG,175,2019,100.0,"Comedy,Drama",7.5,65965,9,producer,Peter Saraf
+Red Sparrow,151572634,Twentieth Century Fox,3056.0,69000000.0,R,305,2018,140.0,"Action,Drama,Thriller",6.6,189239,9,producer,David Ready
+The Possession of Hannah Grace,43016528,Screen Gems,2065.0,7700000.0,R,397,2018,86.0,"Horror,Mystery,Thriller",5.2,23709,9,composer,John Frizzell
+Palm Springs,1512871,Neon,66.0,98567.0,R,175,2020,90.0,"Comedy,Fantasy,Mystery",7.4,162930,9,producer,Dylan Sellers
+Christopher Robin,197744377,Walt Disney Studios Motion Pictures,3602.0,75000000.0,PG,154,2018,104.0,"Adventure,Comedy,Drama",7.2,79438,9,writer,Tom McCarthy
+The Last Duel,30552111,20th Century Studios,3065.0,30080003.0,R,84,2021,152.0,"Action,Drama,History",7.4,159543,9,producer,Jennifer Fox
+Three Identical Strangers,13448497,Neon,5.0,3000000.0,PG-13,186,2018,96.0,"Biography,Documentary,Drama",7.6,36277,9,cinematographer,Tim Cragg
+A Journal for Jordan,6682648,Sony Pictures Entertainment (SPE),2500.0,25000000.0,PG-13,401,2021,131.0,Drama,5.9,2214,9,producer,Todd Black
+The Good House,2279835,Roadside Attractions,1061.0,2244388.0,R,122,2021,104.0,"Comedy,Drama",6.4,1684,9,producer,Jane Rosenthal
+The Bad Guys,250162278,Universal Pictures,4008.0,75000000.0,PG,283,2022,100.0,"Adventure,Animation,Comedy",6.8,43461,9,writer,Hilary Winston
+Paws of Fury: The Legend of Hank,42025197,Paramount Pictures,3475.0,45000000.0,PG,199,2022,98.0,"Action,Animation,Comedy",5.7,4750,9,writer,Nate Hopper
+Padmaavat,22991060,Viva Pictures,326.0,25953338.0,R,341,2018,164.0,"Drama,History,Romance",7.0,33628,9,producer,Sudhanshu Vats
+Breakthrough,50444358,Twentieth Century Fox,2824.0,14000000.0,PG,259,2019,116.0,"Biography,Drama",6.2,10203,9,composer,Marcelo Zarvos
+Slender Man,51738549,Screen Gems,2358.0,10000000.0,PG-13,144,2018,93.0,"Horror,Mystery,Thriller",3.2,35262,9,producer,Robyn Meisinger
+Blindspotting,5006989,Lionsgate,14.0,5006989.0,R,165,2018,95.0,"Comedy,Crime,Drama",7.4,31350,9,cinematographer,Robby Baumgartner
+The First Purge,137056262,Universal Pictures,3031.0,13000000.0,R,181,2018,97.0,"Action,Horror,Sci-Fi",5.2,65357,9,producer,Andrew Form
+The Kashmir Files,24821898,Zee Studios,230.0,2897105.0,R,318,2022,170.0,Drama,8.7,562555,9,composer,Rohit Sharma
+Pet Sematary,113118226,Paramount Pictures,3585.0,21000000.0,R,271,2019,101.0,"Horror,Mystery,Thriller",5.7,93512,9,writer,Jeff Buhler
+Jug Jugg Jeeyo,11467726,Moviegoer,318.0,520000000.0,R,220,2022,148.0,"Comedy,Drama,Family",6.1,37578,9,writer,Neeraj Udhwani
+A Star Is Born,436188866,Warner Bros.,3686.0,36000000.0,R,453,2018,136.0,"Drama,Music,Romance",7.6,389403,9,writer,Joan Didion
+God's Not Dead: We the People,1170367,Fathom Events,1463.0,2000000.0,PG,89,2021,110.0,Drama,4.1,1319,9,producer,Brent Ryan Green
+Licorice Pizza,33271405,United Artists Releasing,4.0,40000000.0,R,430,2021,133.0,"Comedy,Drama,Romance",7.2,120152,9,cinematographer,Michael Bauman
+Strange World,73435494,Walt Disney Studios Motion Pictures,4174.0,150000000.0,PG,68,2022,102.0,"Action,Adventure,Animation",5.6,32572,9,editor,Sarah K. Reimers
+Spencer,24901028,Neon,996.0,18000000.0,R,63,2020,98.0,"Drama,Romance",8.1,7,6,composer,Stephen Amos
+Everything Everywhere All at Once,105125007,A24,10.0,20000000.0,R,311,2022,139.0,"Action,Adventure,Comedy",8.0,305836,9,producer,Joe Russo
+2 Hearts,1349286,Freestyle Releasing,1683.0,15000000.0,PG-13,84,2020,101.0,"Drama,Romance",6.3,6204,9,producer,Conrad Hool
+The Grinch,511595957,Universal Pictures,4141.0,75000000.0,PG,418,2018,85.0,"Animation,Comedy,Family",6.4,76744,9,writer,Dr. Seuss
+Aladdin,1050693953,Walt Disney Studios Motion Pictures,4476.0,183000000.0,PG,222,2020,104.0,"Drama,Musical,Romance",4.4,40,9,composer,Paul Vician
+21 Bridges,49939757,STX Entertainment,2665.0,33000000.0,R,406,2019,99.0,"Action,Crime,Drama",6.6,69005,9,producer,Mike Larocca
+A Madea Family Funeral,74747725,Lionsgate,2442.0,20000000.0,PG-13,306,2019,109.0,"Comedy,Drama",4.6,4660,9,cinematographer,Richard J. Vialet
+She Dies Tomorrow,398663,Neon,24.0,63527.0,R,154,2020,86.0,"Drama,Fantasy,Horror",5.1,6570,9,composer,Mondo Boys
+Wonder Woman 1984,169601036,Warner Bros.,2151.0,166360232.0,PG-13,378,2020,151.0,"Action,Adventure,Fantasy",5.4,271534,9,producer,Stephen Jones
+Eighth Grade,14347433,A24,4.0,2000000.0,R,172,2018,93.0,"Comedy,Drama",7.4,77294,9,producer,Lila Yacoub
+Kin,10313019,Lionsgate,2141.0,30000.0,PG-13,123,2018,102.0,"Action,Drama,Sci-Fi",5.8,17566,9,producer,Dan Cohen
+The Invisible Man,144492724,Universal Pictures,3610.0,7000000.0,R,315,2018,124.0,"Horror,Thriller",4.7,31,2,writer,Rob Browning
+Downton Abbey: A New Era,92601537,Focus Features,3820.0,40000000.0,PG,255,2022,124.0,"Drama,Romance",7.4,24073,9,composer,John Lunn
+Anita,15017470,CMC Pictures,13.0,18500000.0,R,56,2021,137.0,"Biography,Drama,History",7.0,1040,9,producer,William Kong
+Playing with Fire,69412425,Paramount Pictures,3125.0,29900000.0,PG,420,2019,96.0,"Comedy,Family",5.1,15112,9,producer,Sean Robins
+Book Club,104438188,Paramount Pictures,2781.0,14100000.0,PG-13,228,2018,104.0,"Comedy,Drama,Romance",6.1,28833,9,composer,Peter Nashel
+Shaft,21360215,Warner Bros.,2952.0,35000000.0,R,201,2019,111.0,"Action,Comedy,Crime",6.4,54836,9,producer,John Davis
+Gold,14880939,The Weinstein Company,2166.0,6500000.0,R,339,2022,165.0,"Comedy,Drama,Thriller",4.6,1349,9,cinematographer,Anend C. Chandran
+Inside Out,1236845,Walt Disney Pictures,442.0,175000000.0,PG,175,2018,95.0,Drama,8.4,9,9,actress,Andree Davidson
+Miss Bala,15383580,Sony Pictures Entertainment (SPE),2203.0,15000000.0,PG-13,334,2019,104.0,"Action,Crime,Drama",5.8,11763,9,composer,Alex Heffes
+I Heard the Bells,5679267,Fathom Events,1082.0,3000000.0,R,60,2022,110.0,Drama,7.5,390,9,editor,Jordan Graff
+Ralph Breaks the Internet,529323962,Walt Disney Studios Motion Pictures,4017.0,175000000.0,PG,406,2018,112.0,"Adventure,Animation,Comedy",7.0,164807,9,writer,Josie Trinidad
+Free Solo,29390279,National Geographic Entertainment,4.0,29390279.0,PG-13,460,2018,100.0,"Adventure,Documentary,Sport",8.1,70252,9,cinematographer,Clair Popkin
+Super 30,24701637,Reliance Big Pictures,317.0,24701637.0,R,173,2019,154.0,"Biography,Drama",7.9,33523,9,producer,Sajid Nadiadwala
+The Miracle Season,10230620,Mirror/LD Entertainment,1707.0,10279655.0,PG,270,2018,101.0,"Drama,Sport",6.5,5698,9,producer,Scott Holroyd
+Harriet,43347017,Focus Features,2059.0,17000000.0,PG-13,427,2019,125.0,"Action,Biography,Drama",6.7,27907,9,composer,Terence Blanchard
+Godzilla: King of the Monsters,386600138,Warner Bros.,4108.0,170000000.0,PG-13,215,2019,132.0,"Action,Adventure,Fantasy",6.0,186069,9,producer,Jon Jashni
+Patterns of Evidence: The Red Sea Miracle,696191,Fathom Events,849.0,696191.0,R,318,2020,150.0,Documentary,6.2,90,9,self,Glen Fritz
+CatVideoFest 2020,437625,Oscilloscope,30.0,237489.0,R,315,2020,75.0,Documentary,6.9,20,1,director,Alex P. Kitten
+Once Upon a Time in Hollywood,377426903,Sony Pictures Entertainment (SPE),3659.0,90000000.0,R,525,2019,161.0,"Comedy,Drama",7.6,750251,9,editor,Fred Raskin
+The House,34184504,Warner Bros.,3134.0,40000000.0,R,185,2022,97.0,"Animation,Comedy,Drama",6.8,17921,9,writer,Enda Walsh
+Fall,17363261,Lionsgate,1548.0,3000000.0,PG-13,171,2022,85.0,Drama,9.0,9,9,actor,Giulio J. Prosperi
+French Exit,1556763,Sony Pictures Classics,4.0,741895.0,R,323,2020,113.0,"Comedy,Drama",5.9,7735,9,producer,Christine Haebler
+Jurassic World: Fallen Kingdom,1308467944,Universal Pictures,4475.0,170000000.0,PG-13,193,2018,128.0,"Action,Adventure,Sci-Fi",6.1,320902,9,producer,Belén Atienza
+The Hustle,97409779,United Artists Releasing,3007.0,21000000.0,PG-13,236,2019,93.0,"Comedy,Crime",5.4,61270,9,writer,Jac Schaeffer
+Brittany Runs a Marathon,7442106,Amazon Studios,5.0,7442106.0,R,133,2019,104.0,"Comedy,Drama",6.8,20712,9,composer,Duncan Thum
+Jiang Ziya,240646355,Well Go USA Entertainment,20000.0,46728.0,R,99,2020,110.0,"Action,Adventure,Animation",6.5,1947,9,composer,Ying-Wah Wong
+Chhapaak,6532100,FIP,100.0,4346488.0,R,357,2020,120.0,"Biography,Drama",5.3,27276,9,composer,Tubby
+The Broken Hearts Gallery,4781389,TriStar Pictures,2209.0,8000000.0,PG-13,119,2020,109.0,"Comedy,Romance",6.3,9149,9,editor,Shawn Paper
+Save Yourselves!,301162,Bleecker Street Media,388.0,47496.0,R,91,2020,93.0,"Adventure,Comedy,Sci-Fi",5.8,7492,9,producer,Mandy Tagger
+Hell Fest,18159691,Lionsgate,2297.0,5500000.0,R,98,2018,89.0,"Horror,Thriller",5.5,17841,9,writer,William Penick
+Mile 22,66308758,STX Entertainment,3520.0,50000000.0,R,137,2018,94.0,"Action,Thriller",6.1,81580,9,composer,Jeff Russo
+Sonic the Hedgehog,319715683,Paramount Pictures,4167.0,85000000.0,PG,687,2020,99.0,"Action,Adventure,Comedy",6.5,142499,9,producer,Takeshi Ito
+Silence,23834809,Paramount Pictures,4.0,45000000.0,R,374,2018,90.0,Drama,5.4,22,9,actor,Ethan Blashford
+Motherless Brooklyn,18477736,Warner Bros.,1342.0,26000000.0,R,63,2019,144.0,"Crime,Drama,Mystery",6.8,58838,9,producer,Rachel Shane
+The Sparks Brothers,1249115,Focus Features,534.0,82635.0,R,203,2021,140.0,"Biography,Comedy,Documentary",7.8,5318,9,cinematographer,Jake Polonsky
+Stuber,32390945,Twentieth Century Fox,3050.0,16000000.0,R,173,2019,93.0,"Action,Comedy,Crime",6.2,48506,9,composer,Joseph Trapanese
+Poms,16418218,STX Entertainment,2750.0,16418218.0,PG-13,236,2019,90.0,"Comedy,Drama,Sport",6.1,6552,9,producer,Celyn Jones
+For the Love of Money,480774,Freestyle Releasing,519.0,465757.0,R,44,2021,99.0,"Drama,Thriller",4.1,757,9,producer,Melissa A. Young
+Kalank,17987034,FIP,320.0,17987034.0,Not Rated,259,2019,166.0,"Drama,Romance",3.5,16995,9,producer,Karan Johar
+Lightyear,226425420,Walt Disney Studios Motion Pictures,4255.0,200000000.0,PG,227,2022,105.0,"Action,Adventure,Animation",6.1,107790,9,writer,Andrew Stanton
+Blacklight,15902207,Briarcliff Entertainment,2772.0,320000000.0,PG-13,353,2022,104.0,"Action,Drama,Thriller",4.8,19537,9,producer,Allie Loh
+Together Together,1437938,Bleecker Street Media,665.0,1400000.0,R,253,2021,90.0,"Comedy,Drama",6.4,8012,9,composer,Alex Somers
+Triangle of Sadness,22576705,Neon,10.0,13998619.0,R,115,2022,147.0,"Comedy,Drama",7.5,69622,9,editor,Mikel Cee Karlsson
+Amsterdam,31245810,Walt Disney Studios Motion Pictures,3005.0,80000000.0,R,115,2022,134.0,"Comedy,Drama,History",6.1,60874,9,composer,Daniel Pemberton
+Copshop,6807158,Open Road Films (II),3005.0,6000000.0,R,106,2021,107.0,"Action,Thriller",6.2,32900,9,producer,Eric Gold
+Beautiful Boy,31711319,Amazon Studios,4.0,19300000.0,R,446,2018,120.0,"Biography,Drama",7.3,81375,9,producer,Dede Gardner
+On the Basis of Sex,38673750,Focus Features,33.0,38755900.0,PG-13,372,2018,120.0,"Biography,Drama",7.1,35297,9,composer,Mychael Danna
+The Mauritanian,7527030,STX Entertainment,248.0,14000000.0,R,323,2021,129.0,"Biography,Drama,Thriller",7.4,53005,9,writer,Mohamedou Ould Slahi
+Running the Bases,1511980,UP2U Films,1080.0,1511980.0,PG,136,2022,127.0,"Drama,Family",5.2,316,9,editor,Michael Palmerio
+Searching,75462037,Screen Gems,9.0,880000.0,PG-13,133,2018,102.0,"Drama,Horror,Mystery",7.6,165832,9,producer,Adam Sidman
+Synchronic,1483731,Well Go USA Entertainment,327.0,18900000.0,R,77,2019,102.0,"Crime,Drama,Horror",6.2,32875,9,composer,Jimmy LaValle
+Honey Boy,3400977,Amazon Studios,4.0,3400977.0,R,420,2019,94.0,Drama,7.2,38427,9,producer,Daniela Taplin Lundberg
+Orphan: First Kill,37083743,Paramount Pictures,498.0,10000000.0,R,164,2022,99.0,"Crime,Drama,Horror",5.9,34049,9,producer,Ethan Erwin
+The Oscar Nominated Short Films 2019: Documentary,3538550,Shorts International,270.0,3538550.0,R,327,2019,160.0,Documentary,8.3,9,3,editor,Simon Williamson
+Old,90146510,Universal Pictures,3355.0,89836797.0,PG-13,168,2021,108.0,"Drama,Horror,Mystery",5.8,123901,9,producer,Ashwin Rajan
+Devotion,21524368,Columbia Pictures,3405.0,90000000.0,PG-13,68,2022,139.0,"Action,Drama,War",6.7,12081,9,producer,Thad Luckinbill
+Morbius,167460961,Columbia Pictures,4268.0,80000000.0,PG-13,304,2022,104.0,"Action,Adventure,Horror",5.2,129688,9,producer,Lucas Foster
+Man of God,1176808,Fathom Events,0.0,22000000.0,R,315,2022,111.0,Drama,4.0,170,9,cinematographer,Lance Gewer
+Blinded by the Light,18096691,Warner Bros.,2307.0,18096691.0,PG-13,138,2019,118.0,"Comedy,Drama,Music",6.9,25634,9,producer,Jane Barclay
+Overboard,91244913,Pantelion Films,1623.0,12000000.0,PG-13,242,2018,112.0,"Comedy,Romance",6.0,39271,9,composer,Lyle Workman
+Leave No Trace,7682928,Bleecker Street Media,9.0,34876.0,PG,186,2018,109.0,"Adventure,Drama",7.1,60950,9,producer,Linda Reisman
+Tenet,365304105,Warner Bros.,2810.0,536378.0,PG-13,491,2020,150.0,"Action,Sci-Fi,Thriller",7.3,513587,9,editor,Jennifer Lame
+Christmas with the Chosen: The Messengers,13728000,Fathom Events,1700.0,13388000.0,R,37,2021,123.0,Music,7.8,809,9,director,Ben Smallbone
+I Still Believe,16069730,Lionsgate,3250.0,12000000.0,PG,294,2020,116.0,"Biography,Drama,Music",6.4,12396,9,producer,Kevin Downes
+Wonder Park,119559110,Paramount Pictures,3838.0,90000000.0,PG,292,2019,85.0,"Adventure,Animation,Comedy",5.8,12148,9,producer,Kendra Haaland
+Mission Mangal,5667057,FIP,263.0,5667057.0,R,139,2019,130.0,"Drama,History",6.5,16512,9,writer,Riturraj Tripathii
+Ma,61220784,Universal Pictures,2808.0,5000000.0,R,217,2019,99.0,"Horror,Mystery,Thriller",5.6,54737,9,composer,Gregory Tripi
+Scoob!,28588425,Warner Bros.,2500.0,90000000.0,PG,231,2020,93.0,"Adventure,Animation,Comedy",5.6,27587,9,writer,Matt Lieberman
+Thor: Love and Thunder,760928081,Walt Disney Studios Motion Pictures,4375.0,250000000.0,PG-13,206,2022,118.0,"Action,Adventure,Comedy",6.3,339533,9,producer,Kevin Feige
+If Beale Street Could Talk,20596567,Annapurna Pictures,4.0,20596567.0,R,383,2018,119.0,"Drama,Romance",7.1,49790,9,producer,Sara Murphy
+Zombieland: Double Tap,122810399,Sony Pictures Entertainment (SPE),3468.0,42000000.0,R,441,2019,99.0,"Action,Comedy,Horror",6.7,183392,9,producer,Gavin Polone
+Blithe Spirit,964832,IFC Films,239.0,34000.0,PG-13,316,2020,99.0,"Comedy,Fantasy,Romance",5.4,7491,9,writer,Noël Coward
+Lamb of God: The Concert Film,744813,Excel Entertainment,104.0,744813.0,R,295,2021,90.0,Musical,8.9,128,9,producer,Arthur Van Wagenen
+The King's Daughter,2231447,Gravitas Ventures,2170.0,40000000.0,PG,374,2022,98.0,"Action,Adventure,Family",5.1,4565,9,producer,David Brookwell
+Sherlock Gnomes,90497778,Paramount Pictures,3662.0,59000000.0,PG,284,2018,86.0,"Adventure,Animation,Comedy",5.2,12934,9,writer,Emily Cook
+Alone,651445,Magnolia Pictures,169.0,301839.0,R,112,2019,69.0,"Adventure,Drama,Sci-Fi",6.4,307,8,editor,Carlos Lima
+Bombshell,61404394,Lionsgate,4.0,32000000.0,R,385,2019,109.0,"Biography,Drama",6.8,117430,9,producer,Robert Graf
+Fantastic Beasts: The Crimes of Grindelwald,654855901,Warner Bros.,4163.0,200000000.0,PG-13,411,2018,134.0,"Adventure,Family,Fantasy",6.5,287541,9,producer,Lionel Wigram
+Halloween,255485178,Universal Pictures,3928.0,10000000.0,R,439,2018,106.0,"Crime,Horror,Thriller",6.5,157595,9,writer,Danny McBride
+Wrong Turn,4829926,Saban Films,259.0,4800000.0,R,340,2021,109.0,"Horror,Thriller",5.5,32223,9,composer,Stephen Lukach
+Flag Day,1301424,United Artists Releasing,24.0,56576.0,R,134,2021,109.0,"Crime,Drama",5.4,2923,9,producer,William Horberg
+Let Him Go,10835686,Focus Features,2454.0,10773007.0,R,421,2020,113.0,"Crime,Drama,Thriller",6.7,29042,9,composer,Michael Giacchino
+Creed II,214215889,Metro-Goldwyn-Mayer (MGM),3441.0,50000000.0,PG-13,406,2018,130.0,"Action,Drama,Sport",7.1,128614,9,writer,Ryan Coogler
+The Lodge,3155858,Neon,6.0,3200000.0,R,329,2019,108.0,"Drama,Horror,Mystery",6.0,49735,9,producer,Simon Oakes
+The Banshees of Inisherin,32567504,Searchlight Pictures,4.0,20000000.0,R,101,2022,114.0,"Comedy,Drama",7.8,106897,9,cinematographer,Ben Davis
+The Duke,14224753,Sony Pictures Classics,4.0,14329323.0,R,283,2020,95.0,"Biography,Comedy,Crime",6.9,9997,9,composer,George Fenton
+Uncle Drew,46664414,Lionsgate,2742.0,18000000.0,PG-13,186,2018,103.0,"Comedy,Sport",5.7,14820,9,composer,Christopher Lennertz
+Burn the Stage: The Movie,20347513,Trafalgar Releasing,629.0,20347513.0,R,50,2018,84.0,"Documentary,Music",8.5,3892,9,actor,BTS
+Black Widow,379751655,Walt Disney Studios Motion Pictures,4160.0,379751131.0,PG-13,176,2021,134.0,"Action,Adventure,Sci-Fi",6.7,383762,9,producer,Kevin Feige
+Solo: A Star Wars Story,392924807,Walt Disney Studios Motion Pictures,4381.0,275000000.0,PG-13,221,2018,135.0,"Action,Adventure,Sci-Fi",6.9,352220,9,producer,Simon Emanuel
+Den of Thieves,80509622,STX Entertainment,2432.0,30000000.0,R,347,2018,140.0,"Action,Crime,Drama",7.0,114665,9,producer,Tucker Tooley
+A Mouthful of Air,269435,Stage 6 Films,816.0,72000.0,R,70,2021,105.0,Drama,6.0,1889,9,composer,John Gürtler
+Long Shot,53873809,Lionsgate,3230.0,40000000.0,R,243,2019,125.0,"Comedy,Romance",6.8,113074,9,producer,Evan Goldberg
+Hotel Artemis,13313581,Global Road Entertainment,2407.0,15500000.0,R,207,2018,94.0,"Action,Crime,Drama",6.1,54726,9,producer,Adam Siegel
+Sleight,3989705,BH Tilt,565.0,250000.0,R,248,2020,89.0,Drama,8.2,8,9,composer,Devin Bonnée
+The Call,1591194,Atlas Distribution Company,195.0,13000000.0,R,98,2020,97.0,"Horror,Mystery,Thriller",4.2,4369,9,producer,Jeffrey Reddick
+Proud Mary,21753365,Screen Gems,2125.0,14000000.0,R,354,2018,89.0,"Action,Crime,Drama",5.0,10143,9,producer,Tai Duncan
+The Menu,79278001,Searchlight Pictures,3211.0,30000000.0,R,73,2022,107.0,"Comedy,Horror,Thriller",7.2,194352,9,producer,Katie Goodson
+Venom,856085151,Sony Pictures Entertainment (SPE),4250.0,100000000.0,PG-13,453,2018,112.0,"Action,Adventure,Sci-Fi",6.6,491612,9,writer,Todd McFarlane
+Widows,75984700,Twentieth Century Fox,2803.0,42000000.0,R,411,2018,129.0,"Crime,Drama,Thriller",6.8,99453,9,producer,Emile Sherman
+It Chapter Two,473093228,Warner Bros.,4570.0,79000000.0,R,119,2019,169.0,"Drama,Fantasy,Horror",6.5,270891,9,producer,Dan Lin
+Gringo,11001627,STX Entertainment,2404.0,11001627.0,R,298,2018,111.0,"Action,Comedy,Crime",6.1,30837,9,producer,Beth Kono
+Malignant,34891791,Warner Bros.,3485.0,33974421.0,R,119,2018,111.0,Drama,6.0,6,4,cinematographer,Christopher Breitinger
+The Whale,14963138,A24,6.0,22968254.0,R,52,2022,117.0,Drama,8.0,19250,9,composer,Rob Simonsen
+Show Dogs,39156854,Global Road Entertainment,3212.0,5500000.0,PG,228,2018,92.0,"Adventure,Comedy,Crime",3.9,4846,9,producer,Philip von Alvensleben
+Richard Jewell,44655962,Warner Bros.,2502.0,45000000.0,R,385,2019,131.0,"Biography,Crime,Drama",7.5,89590,9,writer,Kevin Salwen
+Ticket to Paradise,169525095,Universal Pictures,3543.0,60000000.0,PG-13,101,2022,104.0,"Comedy,Romance",6.2,38390,9,producer,Eric Fellner
+Kidnap,34814102,Aviron Pictures,2378.0,21000000.0,R,154,2022,95.0,Thriller,9.7,86,9,editor,Renjith Surendran
+Adrift,59945012,STX Entertainment,3015.0,35000000.0,PG-13,214,2022,96.0,Thriller,7.8,7,9,editor,Quinn Noreyko
+The Call of the Wild,111202881,20th Century Studios,3752.0,135000000.0,PG,315,2020,100.0,"Adventure,Drama,Family",6.7,50992,9,producer,James Mangold
+Family Camp,3973263,Roadside Attractions,854.0,3973263.0,PG,262,2022,111.0,"Comedy,Family",5.0,1042,9,producer,Trey Reynolds
+Honest Thief,31220247,Open Road Films (II),2425.0,32609631.0,PG-13,91,2020,99.0,"Action,Thriller",6.0,51956,9,producer,Jonah Loop
+The Way Back,15490514,Warner Bros.,2718.0,26524989.0,R,301,2020,108.0,"Drama,Sport",6.7,47856,9,producer,Jennifer Todd
+Smallfoot,214040103,Warner Bros.,4131.0,80000000.0,PG,460,2018,96.0,"Adventure,Animation,Comedy",6.6,40539,9,writer,Glenn Ficarra
+Ordinary Love,774877,Bleecker Street Media,3.0,63739.0,R,322,2019,92.0,"Drama,Romance",6.6,4582,9,producer,David Holmes
+The French Dispatch,46333545,Searchlight Pictures,52.0,45050593.0,R,436,2020,107.0,"Comedy,Drama,Romance",7.1,125988,9,producer,Jeremy Dawson
+The Best of Enemies,10209813,STX Entertainment,1705.0,10000000.0,PG-13,271,2019,133.0,"Biography,Drama,History",7.3,17656,9,producer,Tobey Maguire
+L'Arracheuse de temps,750623,eOne Entertainment,68.0,700000.0,R,437,2021,105.0,Fantasy,6.4,186,9,producer,Antonello Cozzolino
+Vikram,29837637,Prime Media Pictures,465.0,1750755.0,R,241,2022,175.0,"Action,Crime,Thriller",8.3,60566,9,cinematographer,Girish Gangadharan
+Instant Family,120556201,Paramount Pictures,3286.0,48000000.0,PG-13,411,2018,118.0,"Comedy,Drama",7.3,109654,9,composer,Michael Andrews
+Halloween Ends,104186860,Universal Pictures,3901.0,33000000.0,R,108,2022,111.0,"Horror,Thriller",5.0,54937,9,writer,Chris Bernier
+Ailey,214328,Neon,2.0,72634.0,PG-13,162,2021,95.0,"Biography,Documentary,History",6.7,267,9,editor,Annukka Lilja
+Uri: The Surgical Strike,39346577,PackYourBag Films,101.0,39346577.0,R,355,2019,138.0,"Action,Drama,History",8.2,65446,9,cinematographer,Mitesh Mirchandani
+The Dead Don't Die,15325468,Focus Features,613.0,15325468.0,R,201,2019,104.0,"Comedy,Fantasy,Horror",5.4,80281,9,cinematographer,Frederick Elmes
+Alice,373043,Roadside Attractions,169.0,7331647.0,R,318,2019,103.0,"Comedy,Drama,Romance",6.5,1155,8,editor,Marsha Bramwell
+X,14779858,A24,2865.0,1000000.0,R,318,2019,127.0,"Comedy,Drama,Thriller",4.3,106,9,producer,Amber Tiana
+Bad Times at the El Royale,31882724,Twentieth Century Fox,2808.0,32000000.0,R,84,2018,141.0,"Crime,Drama,Mystery",7.1,152996,9,editor,Lisa Lassek
+Eiffel,13649605,Blue Fox Entertainment,41.0,1595061.0,R,276,2021,108.0,"Biography,Drama,History",6.2,5486,9,writer,Martin Brossollet
+Dumbo,353284621,Walt Disney Studios Motion Pictures,4259.0,170000000.0,PG,278,2019,112.0,"Adventure,Family,Fantasy",6.3,77647,9,producer,Katterli Frauenfelder
+Underwater,40882928,Twentieth Century Fox,2791.0,39177495.0,PG-13,357,2020,95.0,"Action,Horror,Sci-Fi",5.8,85189,9,producer,Tonia Davis
+The Outfit,4032313,Focus Features,1324.0,4042803.0,R,318,2022,105.0,"Crime,Drama,Mystery",7.1,46300,9,producer,Scoop Wasserstein
+Ocean's Eight,297718711,Warner Bros.,4145.0,70000000.0,PG-13,207,2018,110.0,"Action,Comedy,Crime",6.3,223386,9,producer,Susan Ekins
+The Spy Who Dumped Me,75320680,Lionsgate,3111.0,40000000.0,R,151,2018,117.0,"Action,Adventure,Comedy",6.0,79060,9,composer,Tyler Bates
+DC League of Super-Pets,207357117,Warner Bros.,4314.0,90000000.0,PG,185,2022,105.0,"Action,Adventure,Animation",7.2,65323,9,producer,Hiram Garcia
+Mystify: Michael Hutchence,1082456,Fathom Events,0.0,45000.0,R,360,2019,102.0,"Biography,Documentary,Music",7.3,2501,9,producer,Maya Gnyp
+The Last Shift,1035128,Stage 6 Films,871.0,103528.0,R,105,2020,90.0,"Comedy,Drama",5.7,3657,9,producer,Alex Lipschultz
+Umma,2232593,Stage 6 Films,805.0,2301255.0,PG-13,318,2022,83.0,"Drama,Horror,Mystery",4.7,7864,9,cinematographer,Matt Flannery
+Hereditary,80200936,A24,2964.0,10000000.0,R,207,2018,127.0,"Drama,Horror,Mystery",7.3,326098,9,composer,Colin Stetson
+Reminiscence,16400193,Warner Bros.,3265.0,54000000.0,PG-13,140,2021,116.0,"Mystery,Romance,Sci-Fi",5.9,57457,9,composer,Ramin Djawadi
+Space Jam: A New Legacy,163692228,Warner Bros.,3965.0,143987946.0,PG,175,2021,115.0,"Adventure,Animation,Comedy",4.5,73235,9,writer,Herschel Weingrod
+The Secret Life of Pets 2,431058415,Universal Pictures,4561.0,80000000.0,PG,210,2019,86.0,"Adventure,Animation,Comedy",6.4,63712,9,writer,Cinco Paul
+Bros,14810714,Universal Pictures,3350.0,22000000.0,R,122,2022,115.0,"Comedy,Romance",6.4,25595,9,cinematographer,Brandon Trost
+The Mean One,612260,Atlas Distribution Company,162.0,612260.0,R,53,2022,93.0,Horror,4.0,390,9,composer,Yael Benamour
+Unforgettable,17768012,Warner Bros.,2417.0,12000000.0,R,255,2019,86.0,Drama,7.4,310,9,producer,Vincent Del Rosario III
+Boy Erased,11853081,Focus Features,5.0,11000000.0,R,425,2018,115.0,"Biography,Drama",6.9,39657,9,composer,Saunder Jurriaans
+K.G.F: Chapter 2,89123940,Viva Pictures,0.0,159887058.0,R,290,2022,168.0,"Action,Crime,Drama",8.3,135812,9,editor,Ujwal Kulkarni
+Unhinged,44331465,Solstice Studios,299.0,37339104.0,R,147,2018,95.0,Thriller,4.1,265,9,cinematographer,Colemar Nichols
+Panga,4886124,FIP,102.0,3501210.0,R,343,2020,131.0,"Drama,Sport",6.8,7661,9,composer,Ankit Balhara
+Life Itself,7997774,Amazon Studios,2609.0,7997774.0,R,105,2018,117.0,"Drama,Romance",6.8,22683,9,composer,Federico Jusid
+Mafia Inc,889863,Entertainment One,85.0,8500000.0,R,322,2019,143.0,"Crime,Drama",6.8,1486,9,producer,Antonello Cozzolino
+Monster Hunter,42145959,Screen Gems,1736.0,47853893.0,PG-13,379,2020,103.0,"Action,Adventure,Fantasy",5.2,60918,9,producer,Robert Kulzer
+Isn't It Romantic,48791187,Warner Bros.,3444.0,31000000.0,PG-13,322,2019,89.0,"Comedy,Fantasy,Musical",5.9,71004,9,producer,Todd Garner
+Ambulance,52300984,Universal Pictures,3412.0,40000000.0,R,297,2022,136.0,"Action,Crime,Drama",6.1,76575,9,producer,Ian Bryce
+National Champions,475488,STX Entertainment,1197.0,465657.0,R,28,2021,116.0,"Drama,Sport",5.7,1539,9,producer,Basil Iwanyk
+The 15:17 to Paris,57076286,Warner Bros.,3042.0,30000000.0,PG-13,326,2018,94.0,"Biography,Drama,Thriller",5.3,34313,9,producer,Tim Moore
+The Oscar Nominated Short Films 2018: Live Action,3511123,Shorts International,198.0,3511123.0,R,326,2018,96.0,"Action,Drama",8.0,209,6,editor,Simon Williamson
+Memory,13897255,Open Road Films (II),2555.0,30000000.0,R,276,2022,114.0,"Action,Crime,Thriller",5.7,27005,9,writer,Erik Van Looy
+The Railway Children Return,4298731,Blue Fox Entertainment,923.0,4200000.0,PG,129,2022,99.0,"Adventure,Drama,Family",5.5,967,9,writer,E. Nesbit
+Words on Bathroom Walls,3151849,Roadside Attractions,924.0,9300000.0,PG-13,140,2020,110.0,"Drama,Romance",7.1,11139,9,producer,Pete Shilaimon
+Avengers: Endgame,2799439100,Walt Disney Studios Motion Pictures,4662.0,356000000.0,PG-13,250,2019,181.0,"Action,Adventure,Drama",8.4,1141570,9,writer,Stan Lee
+Death of a Nation,5885881,Quality Flix,1005.0,6000000.0,PG-13,151,2018,108.0,"Documentary,History",4.2,7079,7,composer,Dennis McCarthy
+The Fabelmans,25005325,Universal Pictures,4.0,40000000.0,PG-13,80,2022,151.0,Drama,7.7,42303,9,cinematographer,Janusz Kaminski
+Downton Abbey,194694725,Focus Features,3079.0,13000000.0,PG,105,2019,122.0,"Drama,Romance",7.4,57943,9,composer,John Lunn
+The Card Counter,5040693,Focus Features,580.0,5000000.0,R,113,2021,111.0,"Crime,Drama,Thriller",6.2,36640,9,composer,Robert Levon Been
+"Hallelujah: Leonard Cohen, a Journey, a Song",2549065,Sony Pictures Entertainment (SPE),3.0,2588738.0,PG-13,213,2021,118.0,"Biography,Documentary,Music",7.6,678,7,composer,John Lissauer
+Good Boys,111173598,Universal Pictures,3204.0,20000000.0,R,140,2019,90.0,"Adventure,Comedy",6.7,75644,9,producer,James Weaver
+The Informer,2927708,Vertical Entertainment,283.0,83746.0,R,63,2019,113.0,"Action,Crime,Drama",6.6,38567,9,writer,Börge Hellström
+India Sweets and Spices,331790,Bleecker Street Media,343.0,748465.0,PG-13,49,2021,101.0,Comedy,6.1,700,9,composer,Ceiri Torjussen
+Mrs. Harris Goes to Paris,30001915,Focus Features,980.0,13000000.0,PG,199,2022,115.0,"Comedy,Drama",7.1,13109,9,writer,Olivia Hetreed
+Hotel Transylvania 3: Summer Vacation,528583774,Sony Pictures Entertainment (SPE),4267.0,80000000.0,PG,175,2018,97.0,"Adventure,Animation,Comedy",6.3,76392,9,composer,Tiësto
+Bodies Bodies Bodies,13929670,A24,6.0,14029755.0,R,178,2022,94.0,"Comedy,Horror,Thriller",6.3,37449,9,producer,David Hinojosa
+Pearl,9423445,A24,2935.0,200000000.0,R,136,2018,61.0,Thriller,5.1,16,8,editor,Devon Bray Jr.
+Cut Throat City,864928,Well Go USA Entertainment,389.0,6500000.0,R,133,2020,123.0,"Action,Crime,Drama",4.9,2886,9,producer,Michael Mendelsohn
+Sing 2,408398852,Universal Pictures,3892.0,404654988.0,PG,404,2021,110.0,"Adventure,Animation,Comedy",7.4,71244,9,composer,Joby Talbot
+The Lego Movie 2: The Second Part,192306508,Warner Bros.,4303.0,99000000.0,PG,327,2019,107.0,"Action,Adventure,Animation",6.6,68668,9,writer,Jerry Siegel
+Finding You,3326885,Roadside Attractions,1312.0,3300000.0,PG,232,2020,119.0,"Drama,Romance",6.4,5525,9,producer,Julie Ryan
+Scary Stories to Tell in the Dark,104545505,Lionsgate,3135.0,25000000.0,PG-13,145,2019,108.0,"Adventure,Horror,Mystery",6.2,78583,9,writer,Patrick Melton
+Breaking In,51411620,Universal Pictures,2537.0,6000000.0,PG-13,235,2018,88.0,"Action,Thriller",5.5,16217,9,producer,Will Packer
+Acrimony,46403669,Lionsgate,2006.0,20000000.0,R,277,2018,120.0,"Horror,Romance,Thriller",5.8,9273,9,composer,Christopher Lennertz
+Extra Ordinary,223898,Good Deed Entertainment,32.0,8765.0,R,301,2019,94.0,"Comedy,Fantasy,Horror",6.4,10657,9,producer,Yvonne Donohoe
+Greed,1460431,Sony Pictures Classics,4.0,43748.0,R,308,2022,104.0,Thriller,6.8,302,8,actress,Jacqueline Yu
+Willy's Wonderland,457144,Screen Media Films,123.0,45000.0,R,323,2021,88.0,"Action,Comedy,Horror",5.5,30802,9,producer,Bryan Lord
+The Beatles: Get Back - The Rooftop Concert,2206846,IMAX,67.0,2881726.0,PG-13,365,2022,65.0,"Documentary,Music",9.0,1158,9,producer,Yoko Ono
+White Boy Rick,25957482,Studio 8,2504.0,29000000.0,R,112,2018,111.0,"Crime,Drama",6.5,38746,9,producer,Darren Aronofsky
+Final Account,353077,Focus Features,308.0,42536.0,PG-13,225,2020,94.0,Documentary,7.2,1206,5,editor,Stefan Ronowicz
+The Mule,174804407,Warner Bros.,2588.0,50000000.0,R,383,2018,116.0,"Crime,Drama,Thriller",7.0,140088,9,producer,Tim Moore
+Jexi,9341824,Lionsgate,2332.0,9341824.0,R,84,2019,84.0,"Comedy,Romance,Sci-Fi",6.0,28627,9,composer,Philip White
+The Assistant,1338881,Bleecker Street Media,4.0,1700000.0,R,336,2019,87.0,Drama,6.4,23542,9,producer,James Schamus
+Fire of Love,1620433,Neon,3.0,1820014.0,PG,208,2022,98.0,"Biography,Documentary",7.6,6396,9,composer,Nicolas Godin
+The Art of Self-Defense,2414269,Bleecker Street Media,7.0,2414269.0,R,173,2019,104.0,"Action,Comedy,Crime",6.6,38502,9,producer,Stephanie Whonsetler
+Upgrade,16593554,BH Tilt,1457.0,3000000.0,R,214,2018,100.0,"Action,Sci-Fi,Thriller",7.5,188815,9,composer,Jed Palmer
+Midway,127420861,Lionsgate,3242.0,100000000.0,PG-13,420,2019,138.0,"Action,Drama,History",6.7,87540,9,cinematographer,Robby Baumgartner
+Blockers,94017294,Universal Pictures,3379.0,21000000.0,R,270,2018,102.0,"Comedy,Drama",6.2,80885,9,producer,Evan Goldberg
+After,69497587,Aviron Pictures,2138.0,14000000.0,PG-13,264,2019,105.0,"Drama,Romance",5.3,57426,9,writer,Anna Todd
+Fifty Shades Freed,371985018,Universal Pictures,3768.0,55000000.0,R,326,2018,105.0,"Drama,Romance,Thriller",4.5,67524,9,producer,Michael De Luca
+The Outpost,2327336,Fathom Events,74.0,73459.0,R,182,2019,123.0,"Action,Drama,History",6.8,35892,9,producer,Marc Frydman
+Vengeance,4370536,Focus Features,998.0,4408369.0,R,185,2019,95.0,Horror,5.2,441,9,producer,Maddie Goodwin
+The Nun,365550119,Warner Bros.,3876.0,22000000.0,R,119,2018,96.0,"Horror,Mystery,Thriller",5.3,144134,9,composer,Abel Korzeniowski
+Charlie's Angels,73279888,Sony Pictures Entertainment (SPE),3452.0,48000000.0,PG-13,413,2019,118.0,"Action,Adventure,Comedy",4.9,75017,9,producer,Doug Belgrad
+The Mustang,6405816,Focus Features,4.0,6405816.0,R,292,2019,96.0,Drama,6.8,13101,9,producer,Alain Goldman
+In the Heights,45175167,Warner Bros.,3456.0,43646976.0,PG-13,210,2021,143.0,"Drama,Musical,Romance",7.3,48173,9,producer,Mara Jacobs
+Radhe Shyam,15954804,Alerion,800.0,2192867.0,R,325,2022,138.0,"Drama,Romance",5.3,29827,9,writer,Jay Krishna
+Come Away,1692494,Relativity Media,475.0,78356.0,PG,56,2020,94.0,"Adventure,Drama,Fantasy",5.7,5262,9,producer,David Oyelowo
+Clemency,364952,Neon,2.0,53637.0,R,371,2019,112.0,Drama,6.5,4730,9,producer,Peter Wong
+2000 Mules,1465513,D'Souza Media,415.0,1465512.0,R,255,2022,89.0,"Documentary,Fantasy",5.3,9236,7,composer,Bryan E. Miller
+Don't Breathe 2,53785551,Screen Gems,3005.0,47201347.0,R,147,2021,98.0,"Action,Crime,Horror",6.0,59501,9,composer,Roque Baños
+Spider-Man: No Way Home,1912233593,Sony Pictures Entertainment (SPE),4336.0,1910048245.0,PG-13,409,2021,148.0,"Action,Adventure,Fantasy",8.2,764857,9,writer,Steve Ditko
+And Then We Danced,621446,Music Box Films,2.0,76738.0,R,329,2019,113.0,"Drama,Romance",7.6,13246,9,editor,Simon Carlgren
+Rita Moreno: Just a Girl Who Decided to Go for It,264626,Roadside Attractions,227.0,70000.0,PG-13,197,2021,90.0,"Biography,Documentary",7.7,807,9,cinematographer,Pedro Juan López
+Where the Crawdads Sing,140230760,Sony Pictures Entertainment (SPE),3650.0,24000000.0,PG-13,199,2022,125.0,"Drama,Mystery,Romance",7.1,77377,9,producer,Reese Witherspoon
+Men in Black: International,253890701,Sony Pictures Entertainment (SPE),4224.0,110000000.0,PG-13,201,2019,114.0,"Action,Adventure,Comedy",5.6,136929,9,producer,Laurie MacDonald
+The Dry,16066821,IFC Films,186.0,200000.0,R,225,2020,117.0,"Crime,Drama,Mystery",6.8,28047,9,producer,Steve Hutensky
+The Alpinist,1445831,Roadside Attractions,172.0,1445831.0,PG-13,113,2021,92.0,Documentary,7.9,10103,9,composer,Jon Cooper
+Cold Pursuit,76419755,Lionsgate,2630.0,60000000.0,R,327,2019,119.0,"Action,Comedy,Crime",6.2,71081,9,producer,Stein B. Kvae
+The Little Things,30842746,Warner Bros.,2171.0,29735222.0,R,343,2021,128.0,"Crime,Drama,Mystery",6.3,107040,9,editor,Robert Frazen
+Free Guy,331526598,20th Century Studios,4165.0,323473792.0,PG-13,147,2021,115.0,"Action,Adventure,Comedy",7.1,375779,9,producer,Adam Kolbrenner
+Alita: Battle Angel,404980543,Twentieth Century Fox,3790.0,170000000.0,PG-13,687,2019,122.0,"Action,Adventure,Sci-Fi",7.3,272851,9,producer,Jon Landau
+Moonage Daydream,12331011,Neon,170.0,12394621.0,PG-13,136,2022,135.0,"Documentary,Music",7.8,8982,9,archive_footage,Brian Wilshaw
+The Hurricane Heist,32517248,Entertainment Studios Motion Pictures,2402.0,35000000.0,PG-13,298,2018,103.0,"Action,Adventure,Crime",5.1,21097,9,writer,Carlos Davis
+Apollo 11,15342353,Neon,120.0,15342353.0,G,306,2019,93.0,"Documentary,History",8.1,25923,9,cinematographer,Bob Bird
+Medieval,4418699,The Avenue Entertainment,1311.0,4298117.0,R,143,2022,125.0,"Action,Drama,History",5.9,8285,9,writer,Petr Jakl Sr.
+Minions: The Rise of Gru,939628210,Universal Pictures,4391.0,80000000.0,PG,213,2022,87.0,"Adventure,Animation,Comedy",6.6,66850,9,writer,Brian Lynch
+The Favourite,95918706,Fox Searchlight,4.0,95918706.0,R,404,2018,119.0,"Biography,Comedy,Drama",7.5,203754,9,producer,Ed Guiney
+Abominable,188623517,Universal Pictures,4242.0,75000000.0,PG,462,2019,97.0,"Adventure,Animation,Comedy",7.0,39707,9,composer,Rupert Gregson-Williams
+Anna,31626978,Lionsgate,2114.0,31626978.0,R,194,2019,118.0,"Action,Thriller",6.6,84845,9,editor,Julien Rey
+Uncharted,401748820,Sony Pictures Entertainment (SPE),4275.0,120000000.0,PG-13,346,2022,116.0,"Action,Adventure",6.3,215819,9,writer,Jon Hanley Rosenberg
+Death on the Nile,137307235,20th Century Studios,3280.0,90000000.0,PG-13,353,2022,127.0,"Crime,Drama,Mystery",6.3,153970,9,producer,Kevin J. Walsh
+The Prodigy,21127789,Orion Pictures,2530.0,6000000.0,R,327,2019,92.0,"Fantasy,Horror,Mystery",5.9,27025,9,cinematographer,Bridger Nielson
+The Addams Family,1349278,United Artists Releasing,1307.0,24000000.0,PG,77,2019,86.0,"Animation,Comedy,Family",5.8,41629,9,writer,Charles Addams
+Pinocchio,23841090,Roadside Attractions,786.0,2600000.0,PG-13,372,2019,125.0,"Drama,Family,Fantasy",6.2,13636,9,producer,Jean Labadie
+I Can Only Imagine,86086881,Roadside Attractions,1629.0,7000000.0,PG,291,2018,110.0,"Biography,Drama,Family",7.3,16662,9,writer,Alex Cramer
+Impractical Jokers: The Movie,10691091,truTV,357.0,3000000.0,PG-13,315,2020,92.0,Comedy,5.8,6739,9,composer,Leo Birenberg
+Early Man,54622814,Lionsgate,2494.0,50000000.0,PG,319,2018,89.0,"Adventure,Animation,Comedy",6.1,22651,9,producer,Peter Lord
+Greta,18653107,Focus Features,2411.0,18653107.0,R,308,2018,98.0,"Drama,Mystery,Thriller",6.0,34877,9,producer,Sidney Kimmel
+Wild Mountain Thyme,1517267,Bleecker Street Media,450.0,36478.0,PG-13,28,2020,102.0,"Comedy,Drama,Romance",5.7,10077,9,producer,Martina Niland
+Once I Was Engaged,254775,Excel Entertainment,32.0,80000.0,R,164,2021,107.0,Comedy,4.9,114,9,cinematographer,Jeremy Prusso
+Witnesses,855765,Purdie Distribution,90.0,12000000.0,PG,211,2019,97.0,"Crime,Horror,Thriller",4.1,1436,9,actor,Circus-Szalewski
+Annabelle Comes Home,231252591,Warner Bros.,3613.0,30000000.0,R,189,2019,106.0,"Horror,Mystery,Thriller",5.9,77810,9,cinematographer,Michael Burgess
+Hunter Killer,31672678,Lionsgate,2728.0,40000000.0,R,70,2018,121.0,"Action,Thriller",6.6,65296,9,writer,Don Keith
+Jumanji: The Next Level,801693929,Sony Pictures Entertainment (SPE),4227.0,125000000.0,PG-13,385,2019,123.0,"Action,Adventure,Comedy",6.7,255602,9,producer,Dany Garcia
+Escape Room,155712077,Sony Pictures Entertainment (SPE),2717.0,9000000.0,PG-13,362,2019,99.0,"Action,Adventure,Horror",6.4,125721,9,producer,Neal H. Moritz
+Late Night,22386555,Amazon Studios,4.0,22386555.0,R,208,2019,102.0,"Comedy,Drama",6.5,38676,9,composer,Lesley Barber
+Come Play,13182254,Focus Features,2183.0,900000.0,PG-13,428,2020,96.0,"Drama,Horror,Mystery",5.7,14584,9,cinematographer,Maxime Alexandre
+Halloween Kills,131647155,Universal Pictures,3705.0,20000000.0,R,84,2021,105.0,"Horror,Thriller",5.5,88241,9,writer,Danny McBride
+Four Good Days,864091,Vertical Entertainment,298.0,864091.0,R,246,2020,100.0,Drama,6.5,7826,9,producer,Jacob Avnet
+Little,48987096,Universal Pictures,2667.0,20000000.0,PG-13,266,2019,109.0,"Comedy,Fantasy,Romance",5.5,13774,9,producer,Will Packer
+Born in China,25081168,Walt Disney Studios Motion Pictures,1508.0,7000000.0,G,255,2019,83.0,"Documentary,History",7.5,6625,9,producer,Christoph Jörg
+Show Me the Father,1919165,Affirm Films,1073.0,6000000.0,PG,119,2021,91.0,"Documentary,Drama",6.6,443,9,editor,Bill Ebel
+Chal Mera Putt 3,2328987,Rhythm Boyz Entertainment,90.0,10000000.0,R,92,2021,130.0,Comedy,6.7,1671,9,composer,Gurcharan Singh
+The Wolf of Snow Hollow,266963,United Artists Releasing,112.0,56789.0,R,84,2020,85.0,"Comedy,Horror,Mystery",6.2,22270,9,producer,Matt Miller
+Sgt. Stubby: An American Hero,4932694,Fun Academy Motion Pictures,1633.0,4932694.0,PG,628,2018,84.0,"Adventure,Animation,Family",6.9,2348,9,composer,Patrick Doyle
+Downhill,8899195,Searchlight Pictures,2301.0,9159383.0,R,322,2020,86.0,"Comedy,Drama",4.9,12858,9,producer,Stefanie Azpiazu
+The Grudge,49511319,Sony Pictures Entertainment (SPE),2642.0,10000000.0,R,364,2020,94.0,"Fantasy,Horror",4.4,27081,9,producer,Sam Raimi
+Avengers: Infinity War,2048359754,Walt Disney Studios Motion Pictures,4474.0,2048359754.0,PG-13,249,2018,149.0,"Action,Adventure,Sci-Fi",8.4,1090230,9,writer,Stan Lee
+The Resort,208639,Vertical Entertainment,114.0,323849.0,R,246,2021,76.0,Horror,3.1,3185,9,composer,John Stary
+Game Night,117679066,Warner Bros.,3488.0,37000000.0,R,312,2018,100.0,"Action,Adventure,Comedy",6.9,238772,9,producer,John Fox
+Captive State,8808611,Focus Features,2548.0,8808611.0,PG-13,292,2019,109.0,"Action,Horror,Sci-Fi",6.0,55090,9,cinematographer,Alex Disenhof
+Linda Ronstadt: The Sound of My Voice,4252657,Greenwich Entertainment,7.0,4252657.0,PG-13,483,2019,95.0,"Biography,Documentary,Music",8.0,2244,9,composer,Julian Raymond
+"Juliet, Naked",4511157,Roadside Attractions,4.0,4511157.0,R,137,2018,97.0,"Comedy,Drama,Music",6.6,23264,9,writer,Nick Hornby

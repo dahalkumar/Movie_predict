@@ -1,0 +1,233 @@
+{% extends 'header.html' %}
+
+{% block head %}
+
+
+<title>IMDB Movie Revenue Predictor</title>
+{% endblock %}
+
+{% block content %}
+<form method="post">
+    <div class="form-group">
+      <label for="originalTitle">Original Title:</label>
+      <input type="text" class="form-control" id="originalTitle" name="originalTitle" required>
+    </div>
+    <div class="form-group">
+      <label for="distributor">Distributor:</label>
+      <input type="text" class="form-control" id="distributor" name="distributor" required>
+    </div>
+    <div class="form-group">
+      <label for="opening_theaters">Opening Theaters:</label>
+      <input type="number" class="form-control" id="opening_theaters" name="opening_theaters" required>
+    </div>
+    <div class="form-group">
+      <label for="budget">Budget:</label>
+      <input type="number" class="form-control" id="budget" name="budget" required>
+    </div>
+    <div class="form-group">
+      <label for="MPAA">MPAA:</label>
+      <select class="form-control" id="MPAA" name="MPAA" required>
+        {% for option in mpaa_options %}
+          <option value="{{ option }}">{{ option }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="release_days">Release Days:</label>
+      <input type="number" class="form-control" id="release_days" name="release_days" required>
+    </div>
+    <div class="form-group">
+      <label for="startYear">Start Year:</label>
+      <input type="number" class="form-control" id="startYear" name="startYear" required>
+    </div>
+    <div class="form-group">
+      <label for="runtimeMinutes">Runtime Minutes:</label>
+      <input type="number" class="form-control" id="runtimeMinutes" name="runtimeMinutes" required>
+    </div>
+    <div class="form-group">
+      <label for="genres_y">Genres:</label>
+      <input type="text" class="form-control" id="genres_y" name="genres_y" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+  
+
+{% endblock %}
+
+
+
+
+
+{% extends 'header.html' %}
+
+{% block head %}
+
+
+<title>IMDB Movie Revenue Predictor</title>
+{% endblock %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-6 col-sm-12 col-xs-6 col-lg-6">
+        <form action="/predict" method="post">
+            <legend>Revenue prediction form</legend>
+            <div class="mb-3">
+                <label class="form-label">Original Title</label>
+                <input class="form-control" type="text" name="originalTitle" placeholder="Enter a movie title"
+                    required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Category</label>
+                <input class="form-control" type="text" name="category"
+                    placeholder="Enter type of film" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Distributor</label>
+                <input class="form-control" type="text" name="distributor" placeholder="Enter a value of distributor"
+                    required />
+
+            </div>
+            <div class="mb-3">
+                <label class="form-label">count of opening theaters</label>
+                <input class="form-control" type="text" name="opening_theaters"
+                    placeholder="Enter a value of opening theaters count" />
+
+            </div>
+
+
+            <div class="mb-3">
+                <label class="form-label">Budget</label>
+                <input class="form-control" type="text" name="budget" placeholder="Enter a budget of  Movie"
+                    required />
+
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Genres</label>
+                <input class="form-control" type="text" name="genres_y"
+                    placeholder="Enter a type of Genres" required />
+            </div>
+
+   
+
+
+            <div class="mb-3">
+                <label class="form-label">estimated release days</label>
+                <input class="form-control" type="text" name="release_days" placeholder="number of days movie going to release"
+                    required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Rekeased Year</label>
+                <input class="form-control" type="text" name="startYear" placeholder="Enter a release year"
+                    required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Runtime Minutes</label>
+                <input class="form-control" type="text" name="runtimeMinutes"
+                    placeholder="Enter a value of runtime of movie" required />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Average Rating</label>
+                <input class="form-control" type="text" name="averageRating"
+                    placeholder="Enter number of Rating" required />
+            </div>
+            
+            <div class="mb-3">
+                <label class="form-label">Votes</label>
+                <input class="form-control" type="text" name="numVotes"
+                    placeholder="Enter number of votes" required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Ordering</label>
+                <input class="form-control" type="text" name="ordering"
+                    placeholder="Enter rank of orders" required />
+            </div>
+         
+            <div class="mb-3">
+                <label class="form-label">Director</label>
+                <input class="form-control" type="text" name="primaryName"
+                    placeholder="Enter name of director" required />
+            </div>
+      
+          
+            <div class="mb-3">
+                <label class="form-label">MPAA</label>
+                <select class="form-control" name="MPAA" placeholder="Enter type of MPAA"
+                    required>
+
+                    <option value="<PG-13">
+                        &lt;PG-13
+                    </option>
+                    <option value="R">
+                        R
+                    </option>
+                    <option value="Not Rated">
+                        Not Rated
+                    </option>
+                    <option value="G">
+                        G
+                    </option>
+                    <option value="PG">
+                        PG
+                    </option>
+
+                </select>
+            </div>
+            <div class="mb-3">
+
+                <input class="btn btn-primary" type="submit" value="Predict revenue" required />
+            </div>
+
+        </form>
+    </div>
+
+    <div class="col-md-6 col-sm-12 col-xs-6 col-lg-6">
+        <div class="card">
+            <div class="card-header">
+              Movie Revenue Predictor
+            </div>
+            <div class="card-body">
+        {% if context['movies_data'] is not none %}
+        <table class="table table-striped">
+            <caption>Movie Revenue Predictor</caption>
+            <tr>
+                <th>Input Feature</th>
+                <th>Feature Value</th>
+
+            </tr>
+            {% for column,value in context['movies_data'].items() %}
+
+
+
+            <tr>
+                <td>{{column}}</td>
+                <td>{{value[0]}}</td>
+            </tr>
+
+            {% endfor %}
+            <tr>
+
+                <td>world_revenue_value </td>
+                <td>
+                    {{ context['world_revenue_value'] }}
+                </td>
+            </tr>
+        </table>
+
+        {% else %}
+       
+              <h5 class="card-title">Submit Form</h5>
+              <p class="card-text">Kindly provide necessary information to estimate IMDB movie revenue </p>
+            
+         
+
+        {% endif %}
+        Go to <a href="/" class="btn btn-primary">Home</a>
+    </div>
+</div>
+    </div>
+
+    {% endblock %}

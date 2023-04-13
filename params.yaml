@@ -1,0 +1,5 @@
+N_ESTIMATORS :  [int(x) for x in np.linspace(start = 100, stop = 1200, num = 12)]  # number of trees in the random forest
+MAX_DEPTH : [int(x) for x in np.linspace(5, 30, num = 6)]  # maximum number of levels allowed in each decision tree
+MIN_SAMPLES_SPLIT :  [2, 5, 10, 15, 100]  # minimum sample number to split a node
+MIN_SAMPLES_LEAF :  [1, 2, 5, 10]  # minimum sample number that can be stored in a leaf node
+BOOTSTRAP : [True, False]  # method used to sample data points

@@ -1,0 +1,21 @@
+sklearn
+dvc
+pandas
+notebook
+numpy
+matplotlib
+seaborn
+python-box==7.0.1
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+mlflow==2.2.1
+evidently
+pytz
+dateutil
+tarfile
+dill
+-e .
