@@ -65,13 +65,13 @@ class DataIngestion:
 
             file_name = os.listdir(raw_data_dir)[0]
 
-            housing_file_path = os.path.join(raw_data_dir,file_name)
+            movies_file_path = os.path.join(raw_data_dir,file_name)
 
 
-            logging.info(f"Reading csv file: [{housing_file_path}]")
-            housing_data_frame = pd.read_csv(housing_file_path)
-            housing_data_frame["income_cat"] = pd.cut(
-                housing_data_frame["world_revenue"],
+            logging.info(f"Reading csv file: [{movies_file_path}]")
+            movies_data_frame = pd.read_csv(movies_file_path)
+            movies_data_frame["income_cat"] = pd.cut(
+                movies_data_frame["world_revenue"],
                 bins=[0.0, 1.5, 3.0, 4.5, 6.0, np.inf],
                 labels=[1,2,3,4,5]
             )
@@ -83,9 +83,11 @@ class DataIngestion:
 
             split = StratifiedShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
 
-            for train_index,test_index in split.split(housing_data_frame, housing_data_frame["income_cat"]):
-                strat_train_set = housing_data_frame.loc[train_index].drop(["income_cat"],axis=1)
-                strat_test_set = housing_data_frame.loc[test_index].drop(["income_cat"],axis=1)
+            for train_index,test_index in split.split(movies_data_frame, movies_data_frame["income_cat"]):
+                
+                strat_train_set = movies_data_frame.loc[train_index].drop(["income_cat"],axis=1)
+                
+                strat_test_set = movies_data_frame.loc[test_index].drop(["income_cat"],axis=1)
 
             train_file_path = os.path.join(self.data_ingestion_config.ingested_train_dir,
                                             file_name)

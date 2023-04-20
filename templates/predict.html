@@ -3,7 +3,7 @@
 {% block head %}
 
 
-<title>Housing Estimator</title>
+<title>Revenue Predictor</title>
 {% endblock %}
 
 {% block content %}
@@ -59,7 +59,7 @@
                     required />
             </div>
             <div class="mb-3">
-                <label class="form-label">Rekeased Year</label>
+                <label class="form-label">Released Year</label>
                 <input class="form-control" type="text" name="startYear" placeholder="Enter a release year"
                     required />
             </div>
@@ -98,8 +98,8 @@
                 <select class="form-control" name="MPAA" placeholder="Enter type of MPAA"
                     required>
 
-                    <option value="<PG-13">
-                        &lt;PG-13
+                    <option value="PG-13">
+                        PG-13
                     </option>
                     <option value="R">
                         R
@@ -130,7 +130,7 @@
               Movie Revenue Predictor
             </div>
             <div class="card-body">
-        {% if context[MOVIES_DATA_KEY] is not none %}
+        {% if context['movie_data'] %}
         <table class="table table-striped">
             <caption>Movie Revenue Predictor</caption>
             <tr>
@@ -138,12 +138,32 @@
                 <th>Feature Value</th>
 
             </tr>
-       
+
+           
+                {% for key, values in context['movie_data'].items() %}
+                
+             
+                <tr>
+                
+               <td>{{ key }}:</td>
+               <td> {{ values[0]}}</td>
+              </tr>
+             
+        {%endfor%}
+            </tr>
+           
+            
+          
+            
+      
+    </tr>
+
+
             <tr>
 
                 <td>world_revenue_value </td>
                 <td>
-                    {{ context['world_revenue_value'] }}
+                    ${{ context['world_revenue_value'] }}
                 </td>
             </tr>
         </table>

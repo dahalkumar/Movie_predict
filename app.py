@@ -1,3 +1,7 @@
+"""
+@author: kumar Dahal
+"""
+
 from flask import Flask, request
 import sys
 
@@ -175,6 +179,9 @@ def predict():
             MOVIES_DATA_KEY: movies_data.get_movies_data_as_dict(),
             WORLD_REVENUE_KEY: world_revenue_value,
         }
+        for key, values in context[MOVIES_DATA_KEY].items():
+            values_str = ', '.join(str(v) for v in values)
+            print(f"{key}: {values_str}")
         return render_template('predict.html', context=context)
     return render_template("predict.html", context=context)
 
