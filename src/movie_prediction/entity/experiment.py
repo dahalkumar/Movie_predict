@@ -1,5 +1,8 @@
 
-
+"""
+author @ kumar dahal
+this code is written to create the experiment with ID 
+"""
 
 class Experiment:
     running_status=False

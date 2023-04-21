@@ -1,3 +1,8 @@
+"""
+author @ kumar dahal
+this code is written to predict the output result
+"""
+
 import os
 import sys
 

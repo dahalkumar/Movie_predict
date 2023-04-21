@@ -1,4 +1,7 @@
-
+"""
+author @ kumar dahal
+this code is written to validate the data
+"""
 
 from movie_prediction import logging
 from movie_prediction.exception import MovieException
@@ -67,9 +70,6 @@ class DataValidation:
         try:
             validation_status = False
             
-          
-
-
             validation_status = True
             return validation_status 
         except Exception as e:

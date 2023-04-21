@@ -2,7 +2,6 @@
 author @ kumar dahal
 this function is written to evaluate the old and new trained model 
 and works only is model is trained again on data
-
 """
 
 from movie_prediction import logging

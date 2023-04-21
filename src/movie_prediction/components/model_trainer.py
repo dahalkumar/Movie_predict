@@ -1,5 +1,9 @@
-
+"""
+author @ kumar dahal
+this code is written to train the model
+"""
 from movie_prediction.exception import MovieException
+
 import sys
 from movie_prediction import logging
 from typing import List

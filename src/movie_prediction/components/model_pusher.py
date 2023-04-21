@@ -1,3 +1,8 @@
+"""
+author @ kumar dahal
+this code is written to push the model in the cloud
+"""
+
 from movie_prediction import logging
 from movie_prediction.exception import MovieException
 from movie_prediction.entity.artifact_entity import ModelPusherArtifact, ModelEvaluationArtifact 

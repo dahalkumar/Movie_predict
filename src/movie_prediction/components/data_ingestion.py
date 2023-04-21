@@ -1,3 +1,7 @@
+"""
+author @ kumar dahal
+this code is written to download the data from config/config.yaml
+"""
 from movie_prediction.entity.config_entity import DataIngestionConfig
 import sys,os
 from movie_prediction.exception import MovieException

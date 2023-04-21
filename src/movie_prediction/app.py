@@ -1,3 +1,7 @@
+"""
+author @ kumar dahal
+this code is written to run flask server and pipeline
+"""
 from flask import Flask, request
 import sys
 
