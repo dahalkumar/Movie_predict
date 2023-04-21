@@ -1,6 +1,5 @@
 best_model:
-  model_path: /home/pro/Documents/movie_predictor/Movie_predict/
-    movies/artifact/model_trainer/2023-04-12-17-34-45/trained_model/model.pkl
-
-
-
+  model_path: /home/pro/Documents/movie_predictor/Movie_predict/movies/artifact/model_trainer/2023-04-20-22-19-30/trained_model/model.pkl
+history:
+  2023-04-20-22-19-30:
+    model_path: /home/pro/Documents/movie_predictor/Movie_predict/movies/artifact/model_trainer/2023-04-20-22-08-44/trained_model/model.pkl
